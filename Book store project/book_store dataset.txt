@@ -1,0 +1,167 @@
+
+('Harry Potter and the Half-Blood Prince','J.K. Rowling','Fantasy',4.2,251,490,2005, 'Bloomsbury Publishing'),
+('Harry Potter and the Order of the Phoenix','J.K. Rowling','Fantasy',4.1,210,460,2003,'Bloomsbury Publishing'),
+('Harry Potter and the Chamber of Secrets','J.K. Rowling','Fantasy',4.3,228,540,1998,'Bloomsbury Publishing'),
+('Harry Potter and the Prisoner of Azkaban','J.K. Rowling','Fantasy',4.5,241,510,1999,'Bloomsbury Publishing'),  
+ 
+('The Hobbit','J.R.R. Tolkien','Fantasy adventure',4.4,230,580,1937,'Allen & Unwin'),
+('The Fellowship of the Ring','J.R.R. Tolkien','Fantasy adventure',4.5,572,880,1954,'Allen & Unwin'),
+('The Two Towers','J.R.R. Tolkien','Fantasy adventure',4.6,350,610,1954,'Allen & Unwin'),
+('The Return of the King','J.R.R. Tolkien','Fantasy adventure',4.7,416,700,1955,'Allen & Unwin'),
+  
+('Angels & Demons','Dan Brown','Mystery-thriller',3.9,489,350,2006,'Broadway Books'),
+('The Da Vinci Code','Dan Brown','Mystery-thriller',4.1,467,410,2007,'Broadway Books'),
+ 
+('Think and Grow Rich','Napoleon Hill','Non fiction',4.5,320,300,2004,'Penguin Books'),  
+('The Chomsky-Foucault Debate: On Human Nature','Noam Chomsky','Non fiction',3.9,213,200,2002,'Vintage Classic'),
+ 
+
+('Murder on the Orient Express','Agatha Christie','Detective fiction',4.5,266,500,1934,'Collins Crime Club'),
+('The Body in the Library','Agatha Christie','Detective fiction',3.8,245,440,1945,'Leventhal Publishers'),
+ 
+
+('Sapiens: A Brief History of Humankind','Yuval Noah Harari','Non fiction',4.6,464,1080,2011,'Dvir Publishing House'),
+('Into the wild','Jon Krakauer','Non fiction',3.9,224,450,1996,'Villard'),
+('Einstein: His Life and Universe','Walter Isaacson','Biography',4.6,704,940,2007,'Simon & Schuster'),
+('Norwegian Wood','Haruki Murakami','Novel',4.0,296,260,1987,'Vintage Books'),
+('Kafka on the Shore','Haruki Murakami','Novel',4.1,505,840,2002,'Vintage Books'),
+('Sherlock Holmes: A Baker Street Dozen','Arthur Conan Doyle','Detective fiction',4.3,660,940,1903,'HighBridge Company'),
+('The Complete Adventures and Memoirs of Sherlock Holmes','Arthur Conan Doyle','Detective fiction',4.5,334,750,1893,'Gramercy Books'),
+ 
+('Ready player one','Ernest Cline','Sci-fi',4.2,384,780,2011,'Crown Publishing Group'),
+('Dune','Frank Herbert','Sci-fi',4.2,412,800,1965,'Chilton Books'),
+('The Martian','Andy Weir','Sci-fi',4.5,369,660,2011,'Self Published'),
+('Foundation','Isaac Asimov','Sci-fi',4.5,255,460,1951,'Gnome Press'),
+('The Bastard of Istanbul','Elif Shafak','Novel',3.9,368,600,2006,'Viking Adult'),
+('The spy','Paulo Coelho','Novel',3.6,192,330,2016,'Knopf'),
+('The Old man an the sea','Ernest Hemingway','Novel',3.8,128,290,1952,'Simon & Schuster'),
+('Atomic Habits: An Easy & Proven Way to Build Good Habits & Break','James Clear','Self-help',4.4,320,550,2018, 'Penguin RandomHouse'),
+('Lost Islamic History: Reclaiming Muslim Civilisation from the Past', 'Firas Alkhateeb','Islamic',4.4,217,700,2014,'Hurst & Co.'),
+
+('The Productive Muslim: Where Faith Meets Productivity','Faris Mohammad','Islamic',4.7,240,880,2016,'Claritas Books'),
+('The Kite Runner','Khaled Hosseini','Historical fiction',4.6,400,1020,2003,'Riverhead Books'),
+('Me Before You','Jojo Moyes','Romance',4.3,480,720,2012,'Penguin Books'),
+('1984','Goerge Orwell','Sci-fi',4.5,328,620,1949,'Secker & Warburg'),
+('Great Expectations','Charles Dickens','Novel',4.2,544,1190,1861,'Chapman & Hall'),
+('War and Peace','Leo Tolstoy','Historical Novel',4.5,1225,1500,1869,'The Russian Messenger'),
+('The count of monte cristo','Alexandre Dumas','Historical Novel',4.6,1276,1620,1846,'Simon & Schuster.'),
+('Atlas Shrugged','Ayn Rand','Philosophical fiction',4.6,1088,1400,1957,'Random House'),
+('The Alchemy of Happiness','Abu Hamid Al-Ghazali','Islamic ethics',4.6,126,300,1200,'Self Published'),
+('Once Upon an Eid','S. K. Ali','Fiction',4.3,304,440,2020,'Amulet Paperbacks'),
+('The Travels of Ibn Battuta','Ibn Battuta','Travel',4.1,400,600,1355,'Self published'),
+('The Book Thief','Markus Zusak','Novel',4.4,584,500,2005,'picador'),
+  
+('The 7 Habits of Highly Effective People','Stephen Covey','Self-help',4.4,381,470,1989,'Free Press'),
+('To Kill a Mockingbird','Harper Lee','Southern Gothic',4.3,281,560,1960,'J. B. Lippincott & Co.'),
+('The power of habit','Charles Duhigg','Self-help',4.1,371,390,2012,'Random House Trade'),
+('Les Misérables','Victor Hugo','Historical fiction',4.6,1462,1560,1862,'A. Lacroix, Verboeckhoven & Cie.'),
+('The Hound of the Baskervilles','Sir Arthur Conan Doyle','Detective fiction',4.7,256,500,1902,'George Newnes Ltd'),
+('The Maltese Falcon','Dashiell Hammett','Detective fiction',3.9,217,350,1930,'Alfred A. Knopf'),
+('The Big Sleep','Raymond Chandler','Detective fiction',4.0,277,440,1939,'Alfred A. Knopf'),
+('The Decagon House Murders','Yukito Ayatsuji','Detective fiction',3.8,288,450,1987,'Pushkin Vertigo'),
+('The Honjin Murders','Seishi Yokomizo','Detective fiction',3.7,192,300,1946,'Pushkin Press'),
+('Magpie Murders','Anthony Horowitz','Mystery-thriller',4.2,560,980,2016,'Orion'),
+
+('Deep Work','Cal Newport','Self-help',4.6,304,470,2016,'Grand Central Publishing'),
+('Outliers','Malcolm Gladwell','Self-help',4.5,304,450,2008,'Little, Brown and Company'),
+('The 4-Hour Workweek','Tim Ferriss','Self-help',4.5,308,380,2007,'Crown Publishing Group'),
+('20,000 Leagues Under the Sea','Jules Verne','Adventure',3.8,394,480,1870,'Pierre-Jules Hetzel'),
+('Journey to the Center of the Earth','Jules Verne','Adventure',3.8,240,440,1864,'Pierre-Jules Hetzel'),
+
+('The Five Dysfunctions of a Team','Patrick Lencioni','Business',4.7,229,430,2002,'Jossey-Bass'),
+('Amazonia','James Rollins','Mystery-thriller',4.1,510,910,2002,'Avon Books'),
+('Ikigai','Francesc Miralles, Hector Garcia','Self-help',4.6,208,260,2016,'PenguinRandomHouse'),
+('In the Heat of the Night','John Ball','Mystery-thriller',3.7,185,400,1965,'Carroll & Graf'),
+('No Country for Old Men','Cormac McCarthy','Novel',4.2,320,440,2005,'Alfred A. Knopf'),
+('The Woman in the Window','A. J. Finn','Mystery-thriller',3.9,420,450,2018,'William Morrow'),
+('Killers of the Flower Moon','David Grann','Non fiction',4.2,350,540,2017,'Doubleday')
+('Moby-Dick','Herman Melville','Epic adventure fiction',3.9,707,1200,1851,'Richard Bentley'),
+('The Shawshank Redemption','Stephen King','Crime fiction',4.5,181,340,1982,'Viking Press'),
+('The Shining','Stephen King','Horror',4.6,447,450,1977,'Doubleday'),
+('Men without Women','Haruki Murakami','Short story',3.8,240,300,2014,'Bond street books'),
+('The Prophet','Kahlil Gibran','Poetry',4.2,127,210,1923,'Alfred A. Knopf')
+('The Gray Man','Mark Greaney','Spy fiction',4.1,456,660,2009,'Jove Books')
+('Tinker Tailor Soldier Spy','John le Carré','Spy fiction',4.0,355,310,1974,'Hodder & Stoughton')
+('Casino Royale','Ian Fleming','Spy fiction',3.7,213,300,1953,'Jonathan Cape')
+('Steve Jobs','Walter Isaacson','Biography',4.5,630,1370,2011,'Simon & Schuster'),
+('Benjamin Franklin: An American Life','Walter Isaacson','Biography',4.0,610,1300,2003,'Simon & Schuster'),
+('Leonardo da Vinci','Walter Isaacson','Biography',4.0,600,1250,2017'Simon & Schuster')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -44,7 +44,7 @@ select book_name,author, case author
 from vertical order by Full_Name fetch first 8 rows only;
 
 
-
+***********************************************************************************
 -- Horizontal
 create table fictional as (select * from book_store where genre like '%fiction%' or genre like '%Fiction');
 
@@ -67,7 +67,6 @@ when rating >= 4 then 'between 4 to 5' end "Rating_range" from book_store;
 
 
 select genre, count(genre) from books group by genre order by COUNT(genre) desc;
-fantasy,sci-fi,detective fiction,non-fiction,novel,horror,mystery-thriller
 
 
 

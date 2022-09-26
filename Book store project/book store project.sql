@@ -39,3 +39,17 @@ select book_name, least(year) from book_store order by year asc;
 
 -- we can also find the largest year from database
 select book_name, greatest(year) from book_store order by year desc;
+
+
+## we would like to create a new col 
+## It will contain the century in which the book was released
+
+-- add col name century
+alter table book_store add century varchar;
+
+
+
+## let's find some information from our new col 
+
+-- how many decade's are here 
+select count(distinct(century)) as total_century, count(book_name) as total_books from book_store;

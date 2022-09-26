@@ -30,6 +30,7 @@ select book_name, author from vertical_part offset 5 rows fetch first 5 row only
 -- Having
 select author, sum(price) from vertical_part group by author having sum(price) >= 1000 order by sum(price) desc fetch first 5 row only;
 
+*******************************                      **************************************              ***********************************
 
 -- find the lower/min year from database also print the book name and author name
 select author, book_name, min(year) from book_store group by year, author,book_name order by year asc;
@@ -60,3 +61,24 @@ else '21st century' end;
 
 -- how many decade's are here 
 select count(distinct(century)) as total_century from book_store;
+
+-- decade wise sort the books 
+select distinct(century), book_name from book_store group by century, book_name order by century asc;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

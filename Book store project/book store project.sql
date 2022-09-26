@@ -66,6 +66,8 @@ select count(distinct(century)) as total_century from book_store;
 select distinct(century), book_name from book_store group by century, book_name order by century asc;
 
 
+-- Showing total number of books grouped by century
+select distinct(century), count(book_name) from book_store group by century order by century asc;
 
 
 

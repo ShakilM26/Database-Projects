@@ -9,6 +9,7 @@ select count(distinct(author)) as total_writer, count(book_name) as total_books 
 -- which writer wrote how many books 
 select author,count(book_name) from book_store group by author order by count(book_name) desc;
 
+-- writers and there total book prices
 select author,sum(price) from book_store group by author order by sum(price) desc;
 
 -- total book list by every genre

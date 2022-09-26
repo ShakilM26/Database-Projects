@@ -31,6 +31,11 @@ select book_name, author from vertical_part offset 5 rows fetch first 5 row only
 select author, sum(price) from vertical_part group by author having sum(price) >= 1000 order by sum(price) desc fetch first 5 row only;
 
 
+-- find the lower/min year from database also print the book name and author name
 select author, book_name, min(year) from book_store group by year, author,book_name order by year asc;
+
 -- we can get rid of the above query when we using least function
 select book_name, least(year) from book_store order by year asc;
+
+-- we can also find the largest year from database
+select book_name, greatest(year) from book_store order by year desc;

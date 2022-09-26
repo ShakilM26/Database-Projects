@@ -47,9 +47,16 @@ select book_name, greatest(year) from book_store order by year desc;
 -- add col name century
 alter table book_store add century varchar;
 
+-- set the value in century col 
+update book_store set century = case 
+when year = 1200  then '12th century' 
+when year >= 1300 and year <= 1400 then '14th century' 
+when year >= 1800 and year <=1900 then '19th century' 
+when year >= 1900 and year <= 2000 then '20th century' 
+else '21st century' end;
 
 
 ## let's find some information from our new col 
 
 -- how many decade's are here 
-select count(distinct(century)) as total_century, count(book_name) as total_books from book_store;
+select count(distinct(century)) as total_century from book_store;

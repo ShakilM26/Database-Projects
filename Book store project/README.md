@@ -24,4 +24,14 @@ for python language.
 ```bash
   pip install psycopg2
 ```
-    
+
+## Key responsibilities:
+1. Collecting the data
+2. Performed CRUD operations
+3. In addition to CRUD operations, Insertion, Projection, Ordering,
+and Grouping operations have been performed.
+4. Perform database partition
+
+
+## What I learned:
+I got the idea about database partitioning how to partition database horizontally and vertically.

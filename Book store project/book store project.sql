@@ -1,4 +1,3 @@
-## This is not the Real Project. While learning distributed databases, I was practicing every day. 
 ## After submitting the project I tried to apply all the operations, methods I learned. 
 
 

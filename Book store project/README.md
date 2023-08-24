@@ -13,7 +13,7 @@ we can perform operations on the database.
 1. Choose a dataset 
 2. Perform this operations on python
 3. Insert minimum 30 data 
-4. Partition the Main Table horizontally, partition should be 3 parts. 
+4. Partition the Main Table vertically, partition should be 3 parts. 
 5. Insertion, Select, Projection, Deletion, Updating, Ordering, Grouping
 
 ## Installation

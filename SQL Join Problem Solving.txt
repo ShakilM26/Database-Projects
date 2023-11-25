@@ -1,0 +1,65 @@
+INNER JOIN:
+Retrieve the first name, last name, department, and salary of employees along with the laptop brand and price. Use the google_salaries and google_laptop tables.
+
+
+SELECT gs.first_name, gs.last_name, gs.department, gs.salary, 
+gl.Brand, gl.Price 
+FROM google_salaries gs 
+INNER JOIN google_laptop gl ON gs.Empid = gl.Empid;
+*******************************************************************
+
+LEFT JOIN:
+List all employees and their salaries along with the laptop brand and price, including employees who do not have laptops. Use the google_salaries and google_laptop tables.
+
+SELECT gs.first_name, gs.last_name, gs.salary, 
+gl.Brand, gl.Price 
+FROM google_salaries gs 
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid;
+*******************************************************************
+Filtering with JOIN:
+Retrieve the first name, last name, and salary of employees who have laptops with a price greater than $1500. Use the google_salaries and google_laptop tables.
+
+
+
+SELECT gs.first_name, gs.department, gs.salary, gl.Price
+FROM google_salaries gs  
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid WHERE gl.Price > 500000;
+*******************************************************************
+
+Retrieve the top 5 highest-paid employees and their laptop details. Use the google_salaries and google_laptop tables.
+
+SELECT gs.first_name, gs.salary, gl.Brand, gl.Price 
+FROM google_salaries gs  
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid ORDER BY gs.salary DESC LIMIT 5;
+*******************************************************************
+List the first name, last name, and salary of employees who have laptops and work in the 'Accounting' department. Use the google_salaries and google_laptop tables.
+
+
+SELECT gs.first_name, gs.department, gs.salary, gl.Brand, gl.Price 
+FROM google_salaries gs  
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid WHERE gs.department = 'Accounting';
+*******************************************************************
+Calculate the total price of laptops for each department. Use the google_salaries and google_laptop tables.
+
+
+SELECT gs.department, SUM(gl.Price) AS Total_Laptop_Price 
+FROM google_salaries gs  
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid 
+GROUP BY gs.department ORDER BY Total_Laptop_Price DESC;
+*******************************************************************
+Display the first name, last name, and department of employees along with the laptop brand and price, and the corresponding education level. Use the google_salaries and google_laptop tables.
+
+
+
+SELECT gs.first_name, gs.department, gl.Brand, gl.Price, gs.education 
+FROM google_salaries gs 
+LEFT JOIN google_laptop gl ON gs.Empid = gl.Empid;
+
+
+
+
+
+
+
+
+

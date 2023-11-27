@@ -1,3 +1,4 @@
+/*
 # 1. Retrieve the full name, department, and salary of all employees, whether they are interns or regular employees.
 SELECT full_name, department, salary
 FROM google_interns
@@ -16,3 +17,13 @@ ON gi.Empid = ge.Empid GROUP BY gi.department;
 SELECT gi.full_name, gl.laptop_brand 
 FROM google_interns gi 
 RIGHT JOIN google_laptop gl ON gi.Empid = gl.Empid;
+
+*/
+
+SELECT country, SUM(salary) AS total_salary 
+FROM (
+SELECT country, salary FROM google_interns 
+UNION ALL 
+SELECT country, salary FROM google_employees)
+AS combined_data GROUP BY country order by total_salary desc;
+

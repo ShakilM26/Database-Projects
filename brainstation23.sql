@@ -21,4 +21,12 @@ WHERE be.full_name IS NULL;
 SELECT be.full_name, be.division, be.education FROM employee_brainstation23 be 
 INNER JOIN interns_brainstation23 bi ON be.Empid = bi.Empid AND be.division = bi.division;
 
+SELECT bi.full_name, bi.education, bl.brand, bl.price 
+FROM interns_brainstation23 bi INNER JOIN 
+laptop_brainstation23 bl ON bi.full_name = bl.full_name;
+
+# 1.
+select full_name, division from interns_brainstation23
+union 
+select full_name, division from employee_brainstation23;
 

@@ -1,0 +1,1001 @@
+CustomerID,Gender,Region,Age,Product_Name,Category,Unit_Price,Quantity,Total_Price,Shipping_Fee,Shipping_Status,Order_Date
+CUST0268,Male,North,,Monitor,Electronics,300,5,1500,13.31,Returned,12/8/2023
+CUST0046,Male,West,22,Headphones,Accessories,100,2,200,6.93,In Transit,4/9/2023
+CUST0169,Female,South,54,Monitor,Electronics,300,1,300,11.31,Returned,8/28/2023
+CUST0002,Male,North,23,Headphones,Accessories,100,5,500,12.22,Delivered,1/18/2023
+CUST0173,Female,South,,Laptop,Electronics,1500,3,4500,5.4,Delivered,1/19/2023
+CUST0147,Male,North,64,Smartwatch,Wearables,200,2,400,11.26,In Transit,1/11/2023
+CUST0262,Male,East,27,Smartwatch,Wearables,200,1,200,18.38,In Transit,10/23/2023
+CUST0159,Female,South,18,Keyboard,Accessories,50,2,100,15.08,Returned,6/15/2023
+CUST0046,Female,East,22,Mouse,Accessories,30,1,30,8.22,Returned,2/25/2023
+CUST0023,Male,West,29,Headphones,Accessories,100,3,300,10.7,Delivered,4/23/2023
+CUST0201,Female,East,49,Headphones,Accessories,100,2,200,9.8,Returned,6/1/2023
+CUST0283,Female,West,67,Mouse,Accessories,30,3,90,5.65,In Transit,9/13/2023
+CUST0199,Female,West,41,Keyboard,Accessories,50,5,250,7.13,Delivered,2/17/2023
+CUST0039,Male,South,60,Keyboard,Accessories,50,4,200,10.91,Returned,12/10/2023
+CUST0276,Male,West,66,Mouse,Accessories,30,1,30,11.36,In Transit,6/29/2023
+CUST0143,Female,,36,Smartwatch,Wearables,200,3,600,7.89,Delivered,7/14/2023
+CUST0139,Male,North,57,Laptop,Electronics,1500,4,6000,10.92,In Transit,5/13/2023
+CUST0210,Male,South,30,Smartphone,Electronics,800,2,1600,11.44,Returned,6/9/2023
+CUST0293,Female,East,32,Smartwatch,Wearables,200,5,1000,7.16,In Transit,6/21/2023
+CUST0049,Female,West,59,Monitor,Electronics,300,4,1200,17.37,In Transit,11/26/2023
+CUST0283,Female,East,67,Smartphone,Electronics,800,5,4000,12.17,Delivered,11/8/2023
+CUST0196,Female,South,37,Mouse,Accessories,30,3,90,19.41,Returned,12/27/2023
+CUST0050,Male,North,,Mouse,Accessories,30,3,90,6.97,Returned,6/6/2023
+CUST0007,Female,East,52,Headphones,Accessories,100,2,200,12,In Transit,10/28/2023
+CUST0242,Male,North,58,Smartphone,Electronics,800,4,3200,18.11,,12/30/2023
+CUST0042,Female,South,57,Keyboard,Accessories,50,1,50,9.6,Delivered,12/4/2023
+CUST0264,Male,East,59,Smartphone,Electronics,1658.432327,2,1600,11.59,In Transit,2/1/2023
+CUST0053,Female,North,25,Smartwatch,Wearables,200,1,200,14.9,Delivered,8/14/2023
+CUST0154,Female,East,31,Smartphone,Electronics,800,1,800,19.22,In Transit,12/7/2023
+CUST0190,Male,North,28,Keyboard,Accessories,50,4,200,15.31,Delivered,6/28/2023
+CUST0038,Female,East,57,Monitor,Electronics,300,2,600,12.38,Returned,11/17/2023
+CUST0288,Female,South,,Laptop,Electronics,1500,4,6000,12.91,Delivered,1/25/2023
+CUST0124,Female,South,53,Monitor,Electronics,300,2,600,18.38,In Transit,9/5/2023
+CUST0298,Female,South,58,Headphones,Accessories,100,5,500,7.41,Delivered,9/17/2023
+CUST0211,Female,South,35,Mouse,Accessories,30,3,90,11.42,Delivered,12/25/2023
+CUST0060,Male,North,41,Laptop,Electronics,1500,4,6000,7.13,Delivered,1/14/2023
+CUST0284,Female,West,64,Monitor,Electronics,300,1,300,6.55,Returned,8/1/2023
+CUST0282,Male,North,,Smartphone,Electronics,800,2,1600,9.72,Delivered,2/12/2023
+CUST0205,Female,South,43,Monitor,Electronics,300,2,600,18.27,In Transit,5/18/2023
+CUST0222,Female,,61,Smartphone,Electronics,800,2,1600,6.01,Returned,10/3/2023
+CUST0299,Male,East,58,Keyboard,Accessories,50,2,100,9.57,Returned,8/30/2023
+CUST0064,Male,West,61,Monitor,Electronics,300,1,300,13.82,Returned,9/15/2023
+CUST0073,Male,East,19,Keyboard,Accessories,50,4,200,5.32,Delivered,2/14/2023
+CUST0154,Male,North,31,Keyboard,Accessories,50,3,150,7.46,Delivered,2/27/2023
+CUST0081,Male,North,38,Monitor,Electronics,300,1,300,17.22,Returned,8/13/2023
+CUST0247,Male,East,44,Headphones,Accessories,100,2,200,8.15,In Transit,5/9/2023
+CUST0130,Male,East,68,Monitor,Electronics,300,2,600,9.56,,12/23/2023
+CUST0178,Male,West,44,Smartwatch,Wearables,200,3,600,18.09,In Transit,10/28/2023
+CUST0131,Female,West,67,Laptop,Electronics,1500,4,6000,7.01,Delivered,9/1/2023
+CUST0070,Male,West,23,Monitor,Electronics,300,3,900,12.58,Returned,4/16/2023
+CUST0122,Male,West,68,Headphones,Accessories,100,2,200,13.49,In Transit,12/13/2023
+CUST0168,Female,East,42,Monitor,Electronics,300,4,1200,18.15,In Transit,3/27/2023
+CUST0176,Male,South,51,Laptop,Electronics,1500,2,3000,7.43,Delivered,11/16/2023
+CUST0064,Female,West,61,Laptop,Electronics,1500,2,3000,5.42,Returned,6/14/2023
+CUST0125,Female,South,46,Smartphone,Electronics,800,5,4000,10.62,Returned,1/26/2023
+CUST0165,Female,West,49,Keyboard,Accessories,50,4,200,19.72,,12/25/2023
+CUST0057,Male,North,62,Keyboard,Accessories,50,4,200,12.79,Delivered,9/29/2023
+CUST0207,Male,South,54,Laptop,Electronics,1500,1,1500,5.16,Delivered,3/14/2023
+CUST0167,Female,North,67,Headphones,Accessories,100,2,200,11.65,Returned,12/14/2023
+CUST0006,Male,South,52,Laptop,Electronics,1500,5,7500,19.69,In Transit,9/17/2023
+CUST0041,Male,East,64,Smartphone,Electronics,800,4,3200,17.27,In Transit,8/8/2023
+CUST0112,Male,North,33,Monitor,Electronics,300,4,1200,14.88,Delivered,4/12/2023
+CUST0244,Female,West,24,Headphones,Accessories,100,3,300,8.49,In Transit,2/21/2023
+CUST0218,Male,East,36,Headphones,Accessories,100,2,200,7.71,Returned,11/3/2023
+CUST0073,Male,North,19,Monitor,Electronics,300,5,1500,13.7,In Transit,1/16/2023
+CUST0083,Male,East,28,Monitor,Electronics,300,1,300,17.98,Returned,1/3/2024
+CUST0065,Female,East,,Headphones,Accessories,100,2,200,13.06,Returned,2/5/2023
+CUST0096,Female,,61,Smartphone,Electronics,800,4,3200,11.79,In Transit,2/7/2023
+CUST0060,Male,South,41,Keyboard,Accessories,50,4,200,19.12,Returned,4/3/2023
+CUST0045,Male,East,21,Mouse,Accessories,30,1,30,6.17,In Transit,10/23/2023
+CUST0296,Female,North,50,Keyboard,Accessories,50,2,100,13.82,In Transit,7/25/2023
+CUST0261,Male,West,48,Laptop,Electronics,1500,5,7500,15.95,Returned,10/1/2023
+CUST0077,Male,South,50,Keyboard,Accessories,50,5,250,10.89,Delivered,3/19/2023
+CUST0227,Female,West,54,Keyboard,Accessories,50,4,200,9.22,Returned,10/5/2023
+CUST0284,Female,North,64,Keyboard,Accessories,50,3,150,17.76,In Transit,4/11/2023
+CUST0245,Male,North,63,Mouse,Accessories,30,1,30,13.28,Returned,9/11/2023
+CUST0133,Female,North,47,Smartphone,Electronics,800,1,800,11.29,Returned,10/28/2023
+CUST0179,Male,North,45,Keyboard,Accessories,50,2,100,19.04,Delivered,3/16/2023
+CUST0022,Female,North,33,Smartwatch,Wearables,200,2,400,10.07,Delivered,11/21/2023
+CUST0269,Female,East,64,Laptop,Electronics,1500,5,7500,6.53,Returned,12/3/2023
+CUST0181,Male,East,59,Smartwatch,Wearables,200,3,600,9.82,In Transit,2/8/2023
+CUST0170,Female,South,40,Mouse,Accessories,30,5,150,8.64,Delivered,12/22/2023
+CUST0182,Male,West,,Monitor,Electronics,300,5,1500,7.77,In Transit,10/24/2023
+CUST0219,Male,,48,Mouse,Accessories,62.19121225,2,60,7.4,Returned,8/20/2023
+CUST0037,Male,West,51,Keyboard,Accessories,103.6520204,4,200,11.41,Returned,5/20/2023
+CUST0006,Female,West,52,Monitor,Electronics,300,3,900,5.66,Delivered,2/18/2023
+CUST0125,Female,West,46,Mouse,Accessories,30,4,120,5.71,Delivered,1/3/2024
+CUST0006,Male,North,52,Smartwatch,Wearables,200,1,200,13.68,Delivered,8/2/2023
+CUST0091,Female,South,30,Mouse,Accessories,30,1,30,18.29,In Transit,4/19/2023
+CUST0064,Male,North,61,Smartphone,Electronics,800,5,4000,6.31,Delivered,6/29/2023
+CUST0286,Female,North,63,Laptop,Electronics,1500,1,1500,13.15,Delivered,3/8/2023
+CUST0288,Male,West,55,Headphones,Accessories,100,2,200,16.23,Returned,7/4/2023
+CUST0019,Female,East,69,Keyboard,Accessories,50,1,50,14.53,Returned,4/23/2023
+CUST0236,Male,East,18,Keyboard,Accessories,50,2,100,11.25,Returned,3/24/2023
+CUST0159,Male,West,18,Keyboard,Accessories,50,5,250,11.11,Returned,9/11/2023
+CUST0251,Male,North,42,Mouse,Accessories,30,2,60,18.98,In Transit,2/2/2023
+CUST0159,Male,North,18,Headphones,Accessories,100,1,100,18.47,Delivered,8/13/2023
+CUST0064,Male,West,61,Monitor,Electronics,300,4,1200,18.5,Returned,5/23/2023
+CUST0099,Female,South,26,Laptop,Electronics,1500,4,6000,15.74,Returned,8/12/2023
+CUST0228,Male,North,25,Smartphone,Electronics,800,4,3200,18.2,In Transit,1/24/2023
+CUST0024,Female,East,57,Smartwatch,Wearables,200,2,400,17.94,In Transit,12/8/2023
+CUST0113,Male,South,38,Smartphone,Electronics,800,2,1600,16.51,In Transit,9/14/2023
+CUST0192,Female,North,58,Smartwatch,Wearables,200,4,800,9.97,Delivered,11/12/2023
+CUST0153,Female,East,40,Monitor,Electronics,300,1,300,6.85,Returned,6/21/2023
+CUST0057,Female,East,62,Keyboard,Accessories,50,5,250,14.04,,1/3/2024
+CUST0192,Male,,58,Keyboard,Accessories,50,3,150,6.37,In Transit,1/3/2024
+CUST0150,Female,North,63,Laptop,Electronics,1500,3,4500,18.66,Returned,5/6/2023
+CUST0203,Male,South,33,Mouse,Accessories,30,1,30,7.78,In Transit,1/3/2023
+CUST0163,Female,North,22,Headphones,Accessories,100,3,300,6.16,Returned,10/12/2023
+CUST0203,Female,East,33,Laptop,Electronics,1500,3,4500,6.92,Returned,6/26/2023
+CUST0223,Female,,20,Mouse,Accessories,62.19121225,2,60,15.12,In Transit,5/26/2023
+CUST0266,Male,North,,Mouse,Accessories,30,5,150,16.86,Returned,11/8/2023
+CUST0227,Male,West,54,Smartphone,Electronics,800,3,2400,18.76,In Transit,12/7/2023
+CUST0289,Male,West,37,Laptop,Electronics,1500,5,7500,6.68,Delivered,7/6/2023
+CUST0046,Female,South,22,Laptop,Electronics,1500,3,4500,11.69,Delivered,6/20/2023
+CUST0173,Male,,65,Headphones,Accessories,100,1,100,19.28,Returned,2/11/2023
+CUST0008,Female,North,,Headphones,Accessories,100,5,500,16.04,Delivered,2/2/2023
+CUST0015,Male,West,58,Headphones,Accessories,100,3,300,6.08,Returned,3/22/2023
+CUST0002,Male,East,23,Smartphone,Electronics,800,1,800,12.64,Returned,9/10/2023
+CUST0189,Female,South,38,Mouse,Accessories,30,1,30,10.92,Delivered,2/22/2023
+CUST0137,Male,North,19,Smartphone,Electronics,800,3,2400,16.82,In Transit,5/20/2023
+CUST0139,Male,South,,Smartwatch,Wearables,200,2,400,9.18,Delivered,6/26/2023
+CUST0033,Female,South,,Monitor,Electronics,300,2,600,15.3,Delivered,4/12/2023
+CUST0297,Male,North,61,Monitor,Electronics,300,2,600,13.84,In Transit,10/10/2023
+CUST0008,Female,North,18,Keyboard,Accessories,50,3,150,13.86,Delivered,5/29/2023
+CUST0267,Male,North,29,Laptop,Electronics,1500,3,4500,14.23,Returned,6/1/2023
+CUST0028,Male,,50,Smartwatch,Wearables,200,5,1000,6.09,In Transit,8/22/2023
+CUST0078,Female,North,38,Laptop,Electronics,1500,3,4500,19.98,In Transit,5/10/2023
+CUST0003,Male,North,63,Smartphone,Electronics,800,5,4000,11.1,In Transit,11/6/2023
+CUST0049,Female,North,59,Laptop,Electronics,1500,1,1500,12.63,Returned,2/6/2023
+CUST0212,Female,North,,Laptop,Electronics,1500,5,7500,10.18,In Transit,11/18/2023
+CUST0146,Male,North,47,Smartphone,Electronics,800,1,800,10.16,,1/13/2023
+CUST0082,Female,,,Smartwatch,Wearables,200,1,200,6.03,Returned,4/21/2023
+CUST0036,Female,North,33,Keyboard,Accessories,50,1,50,6.06,Delivered,8/2/2023
+CUST0155,Female,North,41,Laptop,Electronics,1500,2,3000,9.21,Returned,2/2/2023
+CUST0138,Male,North,46,Keyboard,Accessories,50,3,150,5.09,Returned,3/16/2023
+CUST0201,Female,North,49,Mouse,Accessories,30,2,60,8.39,In Transit,11/3/2023
+CUST0197,Female,West,54,Mouse,Accessories,30,2,60,8.59,Delivered,6/4/2023
+CUST0082,Male,West,30,Laptop,Electronics,1500,1,1500,9.98,Delivered,12/4/2023
+CUST0091,Male,East,30,Laptop,Electronics,1500,5,7500,7.58,Delivered,9/26/2023
+CUST0066,Male,West,37,Laptop,Electronics,1500,2,3000,5.69,Returned,1/18/2023
+CUST0026,Female,East,27,Monitor,Electronics,300,1,300,16.61,In Transit,11/23/2023
+CUST0078,Female,West,38,Smartwatch,Wearables,200,4,800,18.89,Returned,5/3/2023
+CUST0281,Male,West,44,Keyboard,Accessories,50,4,200,19.81,In Transit,8/27/2023
+CUST0299,Male,West,58,Headphones,Accessories,100,5,500,14.5,Returned,1/16/2023
+CUST0053,Female,East,25,Smartwatch,Wearables,200,5,1000,16.41,In Transit,7/25/2023
+CUST0239,Male,North,35,Smartwatch,Wearables,200,1,200,7.32,Delivered,11/18/2023
+CUST0069,Male,East,,Headphones,Accessories,100,3,300,10.81,Returned,12/7/2023
+CUST0245,Male,West,63,Mouse,Accessories,30,3,90,13.95,Returned,5/15/2023
+CUST0258,Female,South,39,Monitor,Electronics,300,4,1200,9.55,In Transit,5/16/2023
+CUST0177,Male,South,29,Smartwatch,Wearables,200,3,600,13.87,In Transit,3/18/2023
+CUST0140,Male,East,,Headphones,Accessories,100,2,200,10.96,Delivered,3/8/2023
+CUST0089,Female,North,27,Mouse,Accessories,30,3,90,6.45,In Transit,9/19/2023
+CUST0168,Female,West,42,Smartphone,Electronics,800,2,1600,13.79,In Transit,9/25/2023
+CUST0176,Male,East,51,Laptop,Electronics,1500,3,4500,16.42,In Transit,10/28/2023
+CUST0089,Female,South,27,Monitor,Electronics,300,3,900,7.99,In Transit,2/21/2023
+CUST0281,Female,West,44,Keyboard,Accessories,50,2,100,6.45,Returned,8/28/2023
+CUST0044,Male,East,30,Mouse,Accessories,30,5,150,16.62,Returned,10/28/2023
+CUST0137,Female,South,,Monitor,Electronics,300,5,1500,6,Delivered,11/8/2023
+CUST0174,Female,East,68,Laptop,Electronics,1500,1,1500,16.34,Delivered,5/7/2023
+CUST0141,Female,East,58,Mouse,Accessories,30,1,30,12.22,In Transit,10/3/2023
+CUST0202,Male,South,56,Mouse,Accessories,30,3,90,5.07,Delivered,1/5/2023
+CUST0259,Male,West,59,Laptop,Electronics,1500,2,3000,7.5,Delivered,8/22/2023
+CUST0045,Female,East,21,Smartphone,Electronics,800,3,2400,15.78,Delivered,11/7/2023
+CUST0168,Female,West,42,Keyboard,Accessories,50,1,50,15.92,Delivered,6/24/2023
+CUST0027,Female,,36,Keyboard,Accessories,50,5,250,11.09,Returned,6/6/2023
+CUST0228,Male,South,25,Mouse,Accessories,30,4,120,18.6,Returned,6/29/2023
+CUST0199,Female,South,41,Smartphone,Electronics,800,4,3200,16.45,In Transit,1/18/2023
+CUST0065,Male,North,41,Headphones,Accessories,100,5,500,19.62,Delivered,3/4/2023
+CUST0146,Female,East,47,Laptop,Electronics,1500,3,4500,8.87,Delivered,9/11/2023
+CUST0093,Male,North,66,Monitor,Electronics,300,1,300,16.58,Delivered,2/27/2023
+CUST0168,Female,South,42,Monitor,Electronics,300,1,300,14.7,Delivered,11/16/2023
+CUST0216,Male,South,53,Smartphone,Electronics,800,2,1600,16.23,In Transit,7/19/2023
+CUST0062,Male,West,43,Headphones,Accessories,100,4,400,11.4,Returned,4/24/2023
+CUST0125,Male,West,46,Smartphone,Electronics,800,5,4000,19.08,In Transit,5/1/2023
+CUST0060,Male,,41,Keyboard,Accessories,50,1,50,5.56,Delivered,6/26/2023
+CUST0056,Female,South,23,Smartwatch,Wearables,200,2,400,5.73,Returned,1/3/2024
+CUST0247,Male,South,44,Smartphone,Electronics,800,1,800,7.11,In Transit,1/19/2023
+CUST0131,Female,East,67,Monitor,Electronics,300,1,300,15.92,,5/3/2023
+CUST0114,Female,West,60,Monitor,Electronics,300,3,900,18.61,In Transit,7/21/2023
+CUST0082,Female,,,Smartphone,Electronics,800,4,3200,13.77,Delivered,10/11/2023
+CUST0184,Female,West,54,Mouse,Accessories,30,3,90,14.78,Returned,6/15/2023
+CUST0075,Female,South,56,Monitor,Electronics,300,2,600,13.6,Delivered,8/16/2023
+CUST0142,Male,East,32,Monitor,Electronics,300,1,300,15.5,Delivered,4/14/2023
+CUST0076,Male,East,26,Headphones,Accessories,100,5,500,16.96,Delivered,10/24/2023
+CUST0105,Male,East,27,Smartwatch,Wearables,200,5,1000,12,In Transit,7/14/2023
+CUST0004,Female,West,65,Keyboard,Accessories,50,3,150,19.62,In Transit,12/6/2023
+CUST0127,Male,North,62,Smartwatch,Wearables,200,2,400,11.66,Delivered,8/31/2023
+CUST0072,Male,South,21,Headphones,Accessories,100,1,100,11.24,Delivered,9/2/2023
+CUST0216,Male,North,53,Smartphone,Electronics,800,4,3200,6.27,Returned,4/6/2023
+CUST0156,Female,South,57,Smartphone,Electronics,800,4,3200,16.09,In Transit,12/29/2023
+CUST0052,Male,North,66,Mouse,Accessories,30,4,120,8.24,Returned,6/9/2023
+CUST0226,Female,West,,Smartphone,Electronics,800,4,3200,17.91,In Transit,6/14/2023
+CUST0270,Female,West,64,Laptop,Electronics,1500,1,1500,18.88,Returned,7/14/2023
+CUST0269,Male,North,64,Monitor,Electronics,621.9121225,5,1500,6.93,Delivered,4/23/2023
+CUST0183,Female,West,42,Smartphone,Electronics,800,3,2400,7.22,Delivered,10/21/2023
+CUST0205,Male,South,43,Keyboard,Accessories,50,2,100,5.05,Delivered,10/9/2023
+CUST0080,Female,East,51,Headphones,Accessories,100,1,100,19.84,Delivered,5/27/2023
+CUST0208,Female,West,57,Laptop,Electronics,1500,1,1500,16.28,Returned,2/1/2023
+CUST0186,Female,West,55,Mouse,Accessories,30,5,150,17.36,In Transit,5/7/2023
+CUST0109,Female,,57,Mouse,Accessories,30,1,30,9.59,In Transit,3/12/2023
+CUST0028,Female,East,50,Headphones,Accessories,100,5,500,16.11,In Transit,11/7/2023
+CUST0083,Male,West,28,Keyboard,Accessories,50,2,100,9.48,Returned,9/14/2023
+CUST0027,Female,South,36,Monitor,Electronics,300,2,600,18.44,Returned,3/19/2023
+CUST0203,Female,South,33,Keyboard,Accessories,50,5,250,8.43,In Transit,10/5/2023
+CUST0095,Female,East,,Laptop,Electronics,1500,5,7500,7.38,Returned,6/18/2023
+CUST0204,Male,North,54,Smartphone,Electronics,800,2,1600,6.45,Delivered,3/16/2023
+CUST0165,Male,West,49,Keyboard,Accessories,50,1,50,8.97,Returned,5/23/2023
+CUST0269,Male,North,64,Headphones,Accessories,100,3,300,11.64,Returned,11/24/2023
+CUST0134,Male,North,,Monitor,Electronics,621.9121225,5,1500,7.22,Returned,8/5/2023
+CUST0116,Female,East,,Headphones,Accessories,100,2,200,15.13,Delivered,1/23/2023
+CUST0137,Female,West,19,Smartphone,Electronics,800,3,2400,11.21,Returned,8/1/2023
+CUST0100,Male,West,29,Keyboard,Accessories,50,2,100,5.18,Returned,4/14/2023
+CUST0282,Male,North,68,Smartwatch,Wearables,200,3,600,7.93,In Transit,6/22/2023
+CUST0094,Male,North,30,Laptop,Electronics,1500,1,1500,14.53,In Transit,4/18/2023
+CUST0194,Female,West,61,Mouse,Accessories,62.19121225,1,30,10.41,Returned,1/28/2023
+CUST0174,Female,North,,Smartphone,Electronics,800,4,3200,9.45,Returned,5/8/2023
+CUST0273,Female,South,,Laptop,Electronics,1500,2,3000,9.01,In Transit,6/7/2023
+CUST0188,Male,North,29,Smartphone,Electronics,800,5,4000,6.06,Delivered,2/24/2023
+CUST0109,Male,West,57,Keyboard,Accessories,50,3,150,11.12,In Transit,2/16/2023
+CUST0081,Male,West,38,Smartwatch,Wearables,200,3,600,19.89,Returned,8/7/2023
+CUST0298,Male,North,58,Smartphone,Electronics,800,4,3200,18.55,,4/4/2023
+CUST0189,Female,East,38,Monitor,Electronics,300,1,300,11.89,In Transit,5/1/2023
+CUST0092,Female,East,32,Smartphone,Electronics,800,3,2400,14.12,In Transit,9/28/2023
+CUST0254,Female,West,,Mouse,Accessories,30,2,60,7.56,Delivered,12/25/2023
+CUST0150,Male,South,63,Headphones,Accessories,100,4,400,11.39,Delivered,5/6/2023
+CUST0264,Female,West,59,Keyboard,Accessories,103.6520204,4,200,10.49,Delivered,8/21/2023
+CUST0105,Male,West,27,Headphones,Accessories,100,3,300,17.92,Returned,3/13/2023
+CUST0253,Female,West,51,Laptop,Electronics,1500,1,1500,12.36,Returned,2/28/2023
+CUST0188,Male,West,29,Monitor,Electronics,300,4,1200,8.15,Delivered,7/26/2023
+CUST0052,Male,East,66,Monitor,Electronics,300,2,600,19.1,,7/2/2023
+CUST0204,Male,East,54,Smartwatch,Wearables,200,5,1000,10.03,Returned,10/17/2023
+CUST0180,Male,East,68,Monitor,Electronics,300,3,900,5,In Transit,10/18/2023
+CUST0189,Female,West,,Laptop,Electronics,1500,3,4500,9.92,Delivered,4/6/2023
+CUST0023,Female,South,29,Monitor,Electronics,300,3,900,18.32,Delivered,7/20/2023
+CUST0263,Female,West,40,Smartwatch,Wearables,200,1,200,8.82,Returned,4/8/2023
+CUST0195,Male,West,48,Keyboard,Accessories,50,3,150,16.84,Returned,1/8/2023
+CUST0272,Female,West,52,Laptop,Electronics,1500,5,7500,9.45,,5/13/2023
+CUST0256,Male,East,69,Monitor,Electronics,300,4,1200,8.25,Returned,8/15/2023
+CUST0131,Male,North,67,Smartphone,Electronics,800,4,3200,14.61,In Transit,9/18/2023
+CUST0279,Female,North,59,Mouse,Accessories,30,1,30,6.08,Returned,2/15/2023
+CUST0250,Female,West,64,Smartwatch,Wearables,200,2,400,15.94,Delivered,11/28/2023
+CUST0012,Male,East,,Mouse,Accessories,30,3,90,16.49,In Transit,7/29/2023
+CUST0127,Female,South,62,Smartphone,Electronics,800,4,3200,6.66,In Transit,7/10/2023
+CUST0128,Female,North,52,Monitor,Electronics,621.9121225,3,900,11.04,Delivered,10/25/2023
+CUST0155,Male,West,41,Headphones,Accessories,100,3,300,11.98,Delivered,6/12/2023
+CUST0115,Male,South,53,Headphones,Accessories,100,5,500,5.93,In Transit,7/22/2023
+CUST0115,Male,West,53,Smartwatch,Wearables,200,5,1000,19.43,Returned,6/25/2023
+CUST0282,Male,East,68,Smartphone,Electronics,800,3,2400,8.23,Returned,11/29/2023
+CUST0158,Male,West,51,Smartphone,Electronics,800,1,800,18.58,Returned,10/3/2023
+CUST0088,Female,South,66,Laptop,Electronics,1500,1,1500,13.16,In Transit,2/6/2023
+CUST0124,Male,South,53,Monitor,Electronics,300,2,600,8.51,Returned,5/17/2023
+CUST0055,Female,North,45,Smartwatch,Wearables,200,2,400,10.82,Returned,9/23/2023
+CUST0201,Female,South,49,Laptop,Electronics,1500,3,4500,17.62,Returned,12/25/2023
+CUST0256,Female,West,69,Mouse,Accessories,30,5,150,9.07,Delivered,2/19/2023
+CUST0055,Male,East,45,Keyboard,Accessories,50,1,50,11.27,Returned,9/13/2023
+CUST0076,Male,South,26,Monitor,Electronics,300,4,1200,6.9,Returned,11/5/2023
+CUST0273,Male,South,55,Monitor,Electronics,300,3,900,7.31,In Transit,1/15/2023
+CUST0022,Female,,33,Mouse,Accessories,30,1,30,15.29,Delivered,2/27/2023
+CUST0204,Male,East,54,Laptop,Electronics,1500,2,3000,12.68,Delivered,5/11/2023
+CUST0194,Female,South,61,Mouse,Accessories,30,1,30,19.54,In Transit,4/16/2023
+CUST0138,Male,East,46,Smartphone,Electronics,800,4,3200,17.82,,3/17/2023
+CUST0071,Female,North,46,Mouse,Accessories,30,4,120,10.01,In Transit,4/11/2023
+CUST0044,Female,North,30,Keyboard,Accessories,50,4,200,16.61,Returned,10/16/2023
+CUST0273,Male,South,55,Headphones,Accessories,100,4,400,18.99,In Transit,10/16/2023
+CUST0196,Female,East,37,Headphones,Accessories,100,4,400,11.4,Delivered,2/22/2023
+CUST0212,Female,East,62,Mouse,Accessories,30,2,60,8.36,Delivered,7/17/2023
+CUST0106,Female,East,,Mouse,Accessories,30,5,150,10.03,Delivered,6/30/2023
+CUST0133,Male,North,47,Headphones,Accessories,100,3,300,15,Delivered,7/9/2023
+CUST0262,Male,West,27,Mouse,Accessories,30,4,120,16.05,Returned,5/7/2023
+CUST0280,Female,East,44,Keyboard,Accessories,50,4,200,12.3,In Transit,3/22/2023
+CUST0074,Male,North,36,Smartwatch,Wearables,200,2,400,12.03,Returned,8/28/2023
+CUST0300,Female,East,,Mouse,Accessories,30,3,90,11.56,In Transit,1/17/2023
+CUST0027,Female,North,36,Laptop,Electronics,1500,4,6000,11.21,,10/16/2023
+CUST0016,Male,South,61,Smartphone,Electronics,800,1,800,17.43,Delivered,1/10/2023
+CUST0152,Male,South,69,Smartphone,Electronics,800,3,2400,13.57,Returned,3/25/2023
+CUST0278,Female,East,52,Smartwatch,Wearables,200,3,600,10.21,In Transit,1/29/2023
+CUST0095,Female,South,60,Smartphone,Electronics,800,5,4000,18.75,Delivered,1/19/2023
+CUST0229,Male,West,45,Monitor,Electronics,300,1,300,16.7,Delivered,9/16/2023
+CUST0128,Male,West,52,Monitor,Electronics,300,1,300,14.67,Delivered,7/21/2023
+CUST0032,Female,South,63,Monitor,Electronics,300,5,1500,18,Returned,3/21/2023
+CUST0283,Female,South,67,Keyboard,Accessories,50,5,250,10.04,In Transit,5/3/2023
+CUST0238,Male,West,26,Keyboard,Accessories,50,4,200,10.23,Delivered,1/24/2023
+CUST0051,Male,West,41,Smartwatch,Wearables,200,4,800,8.56,Returned,1/3/2024
+CUST0144,Female,South,,Smartphone,Electronics,800,5,4000,10.52,Delivered,12/1/2023
+CUST0134,Male,South,58,Monitor,Electronics,300,5,1500,19.72,Delivered,5/16/2023
+CUST0129,Male,South,66,Mouse,Accessories,30,2,60,9.19,In Transit,5/7/2023
+CUST0148,Female,West,67,Headphones,Accessories,100,2,200,19.58,Returned,6/1/2023
+CUST0211,Male,North,35,Smartphone,Electronics,800,5,4000,15.61,In Transit,1/27/2023
+CUST0272,Male,South,52,Keyboard,Accessories,50,2,100,13.78,Delivered,9/4/2023
+CUST0092,Female,East,32,Mouse,Accessories,30,5,150,15.68,Delivered,11/6/2023
+CUST0203,Female,,33,Smartwatch,Wearables,200,1,200,14.86,Returned,9/24/2023
+CUST0109,Male,North,57,Smartwatch,Wearables,200,1,200,13.34,Returned,9/8/2023
+CUST0204,Female,South,54,Laptop,Electronics,1500,5,7500,5.02,Returned,8/28/2023
+CUST0291,Male,West,49,Smartwatch,Wearables,200,4,800,18.56,Delivered,3/18/2023
+CUST0153,Female,South,40,Headphones,Accessories,100,5,500,14.22,Delivered,2/2/2023
+CUST0220,Male,North,67,Headphones,Accessories,100,5,500,13.85,Returned,3/15/2023
+CUST0199,Female,North,41,Mouse,Accessories,30,3,90,18.37,Returned,1/3/2024
+CUST0245,Male,West,63,Smartphone,Electronics,800,2,1600,19.63,Delivered,12/27/2023
+CUST0228,Male,North,25,Smartphone,Electronics,800,1,800,5.64,In Transit,9/23/2023
+CUST0106,Male,North,50,Laptop,Electronics,1500,5,7500,15.14,In Transit,6/8/2023
+CUST0174,Male,West,68,Mouse,Accessories,30,4,120,14.02,Returned,9/13/2023
+CUST0161,Male,West,62,Smartwatch,Wearables,200,3,600,17.9,Returned,1/3/2023
+CUST0204,Male,South,54,Smartphone,Electronics,800,1,800,7.77,Returned,7/23/2023
+CUST0062,Male,West,43,Smartwatch,Wearables,200,2,400,13.02,Delivered,10/8/2023
+CUST0114,Male,South,60,Keyboard,Accessories,50,1,50,6.25,In Transit,2/6/2023
+CUST0102,Male,West,25,Monitor,Electronics,300,3,900,9.94,Delivered,10/21/2023
+CUST0140,Male,East,50,Smartphone,Electronics,800,1,800,10.36,Returned,5/25/2023
+CUST0142,Female,South,32,Smartphone,Electronics,800,1,800,8.45,Returned,4/28/2023
+CUST0016,Male,East,61,Smartphone,Electronics,800,2,1600,19.07,Delivered,10/3/2023
+CUST0023,Male,South,,Keyboard,Accessories,50,5,250,10.03,Returned,11/1/2023
+CUST0008,Female,West,18,Mouse,Accessories,30,4,120,8.76,In Transit,6/30/2023
+CUST0268,Male,North,21,Monitor,Electronics,300,2,600,5.69,Returned,8/3/2023
+CUST0162,Male,East,69,Headphones,Accessories,100,1,100,6.43,Returned,5/26/2023
+CUST0121,Female,West,66,Smartwatch,Wearables,200,5,1000,19.19,Returned,9/19/2023
+CUST0047,Female,West,41,Smartwatch,Wearables,200,3,600,10.92,Returned,6/18/2023
+CUST0148,Male,East,67,Keyboard,Accessories,50,5,250,11.17,In Transit,3/3/2023
+CUST0251,Female,East,42,Smartphone,Electronics,800,3,2400,10.65,In Transit,11/18/2023
+CUST0028,Female,West,50,Monitor,Electronics,300,1,300,14.36,Delivered,8/5/2023
+CUST0174,Female,East,68,Headphones,Accessories,100,4,400,11.92,In Transit,10/31/2023
+CUST0296,Female,East,50,Smartphone,Electronics,800,5,4000,13.43,Returned,8/11/2023
+CUST0085,Male,,,Smartphone,Electronics,800,1,800,16.2,Returned,11/25/2023
+CUST0281,Male,West,44,Laptop,Electronics,1500,5,7500,7.21,Delivered,11/21/2023
+CUST0010,Female,East,37,Headphones,Accessories,100,3,300,7.41,Delivered,3/27/2023
+CUST0186,Female,West,55,Laptop,Electronics,1500,1,1500,19.04,In Transit,10/20/2023
+CUST0281,Female,North,44,Laptop,Electronics,1500,2,3000,9.87,Delivered,11/27/2023
+CUST0031,Female,East,67,Smartphone,Electronics,800,5,4000,9.6,In Transit,10/22/2023
+CUST0270,Female,East,,Headphones,Accessories,100,3,300,13.33,Delivered,2/10/2023
+CUST0039,Female,North,60,Smartphone,Electronics,800,2,1600,19.2,In Transit,8/11/2023
+CUST0063,Male,South,20,Keyboard,Accessories,50,1,50,17.61,Returned,8/13/2023
+CUST0097,Female,East,34,Smartwatch,Wearables,200,1,200,17.66,Returned,5/21/2023
+CUST0067,Female,North,19,Laptop,Electronics,1500,4,6000,14.45,Delivered,11/8/2023
+CUST0124,Female,East,,Smartphone,Electronics,800,4,3200,19.17,In Transit,6/17/2023
+CUST0284,Female,South,64,Monitor,Electronics,300,3,900,19.12,In Transit,6/17/2023
+CUST0010,Male,West,37,Monitor,Electronics,300,1,300,9.72,Returned,3/30/2023
+CUST0276,Female,West,66,Monitor,Electronics,300,1,300,18.63,Delivered,11/1/2023
+CUST0256,Male,South,69,Smartphone,Electronics,800,3,2400,5.26,,10/7/2023
+CUST0221,Female,South,33,Mouse,Accessories,30,2,60,15.69,Delivered,10/21/2023
+CUST0062,Female,West,43,Monitor,Electronics,300,3,900,8.58,Returned,11/2/2023
+CUST0219,Female,South,48,Headphones,Accessories,207.3040408,1,100,9.55,Delivered,1/23/2023
+CUST0053,Male,,25,Keyboard,Accessories,50,3,150,11.95,Returned,10/18/2023
+CUST0144,Female,South,54,Smartphone,Electronics,800,4,3200,7.86,Returned,8/7/2023
+CUST0081,Male,South,38,Monitor,Electronics,300,5,1500,12.67,In Transit,1/5/2023
+CUST0044,Female,South,30,Monitor,Electronics,300,2,600,16.31,Delivered,7/25/2023
+CUST0055,Female,South,45,Smartwatch,Wearables,200,3,600,18.24,Returned,11/25/2023
+CUST0272,Male,North,52,Mouse,Accessories,30,3,90,11.88,Returned,5/18/2023
+CUST0126,Female,South,66,Mouse,Accessories,30,2,60,5.53,In Transit,10/16/2023
+CUST0167,Male,South,67,Smartwatch,Wearables,200,3,600,8.01,Delivered,3/27/2023
+CUST0043,Female,South,22,Mouse,Accessories,30,4,120,19.24,In Transit,10/25/2023
+CUST0201,Male,West,49,Monitor,Electronics,300,2,600,7,In Transit,9/21/2023
+CUST0237,Male,South,65,Smartwatch,Wearables,200,3,600,6.94,In Transit,1/3/2024
+CUST0028,Female,East,,Laptop,Electronics,1500,1,1500,6.62,Delivered,2/22/2023
+CUST0150,Female,North,63,Monitor,Electronics,300,3,900,19.87,Delivered,8/23/2023
+CUST0247,Male,South,44,Keyboard,Accessories,50,2,100,10.09,Delivered,8/1/2023
+CUST0058,Female,East,42,Monitor,Electronics,300,2,600,6.22,In Transit,8/6/2023
+CUST0281,Male,West,,Laptop,Electronics,1500,4,6000,7.66,Returned,1/1/2023
+CUST0041,Male,East,64,Smartphone,Electronics,800,4,3200,5.82,Returned,10/2/2023
+CUST0204,Male,East,54,Monitor,Electronics,300,4,1200,18.4,Delivered,4/29/2023
+CUST0095,Female,North,60,Smartwatch,Wearables,200,2,400,18.88,Delivered,7/24/2023
+CUST0272,Female,North,52,Smartwatch,Wearables,200,3,600,15.36,In Transit,9/17/2023
+CUST0069,Male,East,,Monitor,Electronics,300,4,1200,16.88,In Transit,9/26/2023
+CUST0202,Male,South,56,Headphones,Accessories,100,4,400,19.94,In Transit,6/7/2023
+CUST0054,Female,North,64,Headphones,Accessories,100,1,100,10.32,Delivered,3/12/2023
+CUST0187,Female,East,25,Keyboard,Accessories,50,4,200,7.33,Delivered,10/24/2023
+CUST0065,Male,South,41,Smartphone,Electronics,800,5,4000,6.41,In Transit,12/1/2023
+CUST0019,Male,West,69,Smartwatch,Wearables,200,1,200,12.86,In Transit,8/16/2023
+CUST0054,Female,North,64,Keyboard,Accessories,50,1,50,13.13,In Transit,2/13/2023
+CUST0018,Female,,38,Mouse,Accessories,30,2,60,17.21,In Transit,11/28/2023
+CUST0059,Male,North,18,Laptop,Electronics,1500,2,3000,7.81,Returned,6/22/2023
+CUST0075,Female,South,56,Mouse,Accessories,30,5,150,5.44,In Transit,6/23/2023
+CUST0129,Female,East,66,Smartphone,Electronics,800,3,2400,19.63,Delivered,7/28/2023
+CUST0103,Male,North,,Smartphone,Electronics,800,1,800,15.79,In Transit,10/30/2023
+CUST0176,Female,South,51,Laptop,Electronics,1500,3,4500,5.72,In Transit,11/10/2023
+CUST0299,Female,West,58,Smartwatch,Wearables,200,3,600,9.69,Returned,1/3/2024
+CUST0178,Female,South,44,Smartphone,Electronics,1658.432327,3,2400,19.31,Delivered,6/3/2023
+CUST0138,Female,East,46,Laptop,Electronics,1500,4,6000,16.31,In Transit,6/29/2023
+CUST0152,Male,East,69,Mouse,Accessories,30,1,30,10.99,In Transit,10/6/2023
+CUST0212,Female,West,62,Smartphone,Electronics,800,3,2400,16.12,In Transit,8/1/2023
+CUST0208,Female,South,57,Smartwatch,Wearables,200,2,400,8.71,,5/18/2023
+CUST0026,Male,East,27,Smartphone,Electronics,800,5,4000,12.26,Returned,5/2/2023
+CUST0224,Female,East,57,Smartphone,Electronics,800,1,800,19.34,Delivered,11/20/2023
+CUST0131,Female,West,67,Laptop,Electronics,1500,2,3000,18.81,In Transit,8/10/2023
+CUST0019,Male,North,69,Monitor,Electronics,300,1,300,14.91,Delivered,4/5/2023
+CUST0291,Female,North,49,Mouse,Accessories,30,1,30,5.6,Delivered,4/19/2023
+CUST0032,Male,West,63,Laptop,Electronics,1500,3,4500,19.69,In Transit,12/30/2023
+CUST0230,Male,South,,Laptop,Electronics,1500,4,6000,15.12,In Transit,11/10/2023
+CUST0285,Female,North,58,Headphones,Accessories,100,1,100,5.25,Delivered,1/14/2023
+CUST0199,Male,North,41,Headphones,Accessories,100,1,100,18.38,Returned,7/5/2023
+CUST0045,Female,East,21,Monitor,Electronics,300,3,900,15.22,In Transit,1/3/2024
+CUST0063,Male,North,20,Monitor,Electronics,300,4,1200,15.57,Delivered,11/6/2023
+CUST0178,Male,East,44,Laptop,Electronics,1500,5,7500,8.03,In Transit,1/20/2023
+CUST0210,Female,North,30,Monitor,Electronics,300,5,1500,16.68,Returned,5/6/2023
+CUST0105,Female,North,27,Headphones,Accessories,100,2,200,12.44,In Transit,10/21/2023
+CUST0198,Male,South,,Monitor,Electronics,300,3,900,6.39,Returned,12/30/2023
+CUST0241,Female,East,27,Keyboard,Accessories,50,1,50,11.72,In Transit,7/10/2023
+CUST0201,Female,West,49,Smartphone,Electronics,800,2,1600,6.85,Delivered,1/3/2024
+CUST0052,Male,South,66,Mouse,Accessories,30,4,120,14.27,In Transit,2/5/2023
+CUST0258,Female,North,39,Laptop,Electronics,1500,3,4500,15.91,Returned,2/3/2023
+CUST0123,Male,South,52,Laptop,Electronics,1500,5,7500,16.01,In Transit,11/22/2023
+CUST0285,Male,South,,Smartphone,Electronics,800,3,2400,19.44,In Transit,6/3/2023
+CUST0279,Female,West,59,Mouse,Accessories,30,3,90,7.34,Returned,4/26/2023
+CUST0052,Female,East,66,Headphones,Accessories,100,3,300,13.21,In Transit,3/13/2023
+CUST0200,Female,West,,Laptop,Electronics,1500,5,7500,11.03,Returned,1/11/2023
+CUST0103,Female,South,23,Keyboard,Accessories,50,5,250,14.12,In Transit,4/10/2023
+CUST0129,Female,North,66,Smartwatch,Wearables,200,5,1000,10.43,Delivered,3/7/2023
+CUST0012,Female,North,28,Laptop,Electronics,1500,1,1500,12.71,Returned,8/31/2023
+CUST0139,Male,East,57,Smartphone,Electronics,800,2,1600,12.55,,1/2/2023
+CUST0108,Male,South,,Keyboard,Accessories,50,2,100,6.85,Returned,10/19/2023
+CUST0196,Male,West,37,Laptop,Electronics,1500,2,3000,17.23,Returned,1/10/2023
+CUST0007,Male,East,52,Headphones,Accessories,100,3,300,19.53,In Transit,1/16/2023
+CUST0118,Male,West,,Smartwatch,Wearables,200,3,600,18.62,Delivered,7/23/2023
+CUST0227,Female,East,54,Mouse,Accessories,30,5,150,14.71,In Transit,12/4/2023
+CUST0219,Female,South,48,Keyboard,Accessories,50,2,100,12.46,In Transit,4/9/2023
+CUST0297,Male,East,61,Monitor,Electronics,300,2,600,12.26,Returned,4/25/2023
+CUST0098,Female,East,57,Headphones,Accessories,100,4,400,8.84,In Transit,2/28/2023
+CUST0284,Female,South,64,Smartwatch,Wearables,200,5,1000,13.46,In Transit,5/9/2023
+CUST0137,Female,West,19,Monitor,Electronics,300,5,1500,19.39,Returned,12/8/2023
+CUST0127,Male,North,62,Headphones,Accessories,100,2,200,5.13,Delivered,11/1/2023
+CUST0052,Male,East,66,Mouse,Accessories,30,2,60,6.23,In Transit,6/11/2023
+CUST0162,Female,South,69,Smartwatch,Wearables,200,4,800,12.26,In Transit,10/9/2023
+CUST0069,Female,East,66,Laptop,Electronics,1500,4,6000,16.92,In Transit,9/23/2023
+CUST0011,Female,West,54,Smartphone,Electronics,1658.432327,2,1600,15.8,In Transit,4/6/2023
+CUST0293,Male,South,32,Laptop,Electronics,1500,3,4500,8.53,Returned,11/17/2023
+CUST0078,Female,East,38,Monitor,Electronics,300,1,300,7.57,Delivered,2/7/2023
+CUST0290,Female,,37,Headphones,Accessories,100,3,300,5.29,Returned,9/30/2023
+CUST0130,Female,West,68,Smartwatch,Wearables,200,3,600,5.65,In Transit,8/18/2023
+CUST0186,Female,East,55,Smartwatch,Wearables,200,5,1000,18.29,Delivered,1/10/2023
+CUST0164,Male,South,50,Monitor,Electronics,300,3,900,11.22,In Transit,3/16/2023
+CUST0024,Female,,57,Monitor,Electronics,300,2,600,15.59,Returned,9/2/2023
+CUST0006,Female,East,,Smartwatch,Wearables,200,3,600,13.94,Delivered,4/7/2023
+CUST0124,Female,North,53,Monitor,Electronics,300,1,300,16.32,Delivered,8/16/2023
+CUST0060,Female,West,41,Headphones,Accessories,100,5,500,18.06,Delivered,3/15/2023
+CUST0046,Female,North,22,Mouse,Accessories,30,1,30,8.96,Returned,3/3/2023
+CUST0280,Male,South,44,Smartwatch,Wearables,200,4,800,6.43,,3/3/2023
+CUST0012,Male,South,28,Headphones,Accessories,100,3,300,17.16,Returned,8/10/2023
+CUST0095,Male,East,60,Mouse,Accessories,30,3,90,18.42,Delivered,1/25/2023
+CUST0279,Female,,,Mouse,Accessories,30,2,60,11.28,Returned,9/19/2023
+CUST0158,Female,,51,Monitor,Electronics,300,4,1200,6.91,In Transit,9/13/2023
+CUST0193,Male,South,64,Keyboard,Accessories,50,4,200,17.18,In Transit,11/6/2023
+CUST0270,Male,East,64,Keyboard,Accessories,50,1,50,18.23,Delivered,5/24/2023
+CUST0005,Female,East,56,Mouse,Accessories,30,2,60,7.58,In Transit,2/15/2023
+CUST0118,Female,West,23,Smartphone,Electronics,800,2,1600,9.07,In Transit,10/19/2023
+CUST0016,Female,North,61,Keyboard,Accessories,50,1,50,19.39,Delivered,7/28/2023
+CUST0168,Female,South,42,Keyboard,Accessories,50,2,100,12.44,In Transit,2/21/2023
+CUST0091,Male,North,30,Keyboard,Accessories,50,1,50,19.02,Delivered,12/14/2023
+CUST0066,Female,West,37,Headphones,Accessories,100,3,300,16.67,Returned,3/7/2023
+CUST0186,Female,East,55,Mouse,Accessories,30,1,30,5.24,Returned,5/25/2023
+CUST0130,Female,North,68,Monitor,Electronics,300,3,900,10.39,Returned,2/9/2023
+CUST0274,Female,West,51,Keyboard,Accessories,50,3,150,19.79,Delivered,1/3/2024
+CUST0095,Female,East,60,Monitor,Electronics,300,4,1200,7.26,In Transit,8/20/2023
+CUST0128,Female,East,52,Smartwatch,Wearables,200,5,1000,18.72,Delivered,3/2/2023
+CUST0036,Male,South,,Keyboard,Accessories,50,3,150,9.99,,5/7/2023
+CUST0016,Female,East,61,Monitor,Electronics,300,1,300,6.63,In Transit,1/14/2023
+CUST0192,Male,South,58,Mouse,Accessories,30,1,30,11.39,In Transit,5/15/2023
+CUST0013,Female,East,55,Keyboard,Accessories,50,4,200,6.66,,8/13/2023
+CUST0059,Female,East,18,Keyboard,Accessories,50,4,200,7.76,In Transit,8/20/2023
+CUST0065,Female,South,41,Smartphone,Electronics,800,1,800,6.24,Delivered,8/3/2023
+CUST0025,Female,South,56,Headphones,Accessories,100,3,300,5.86,In Transit,11/25/2023
+CUST0160,Female,South,69,Laptop,Electronics,1500,2,3000,5.35,Returned,10/30/2023
+CUST0096,Female,North,61,Smartphone,Electronics,800,5,4000,13.72,,3/9/2023
+CUST0071,Male,East,46,Smartphone,Electronics,800,2,1600,13.1,In Transit,1/7/2023
+CUST0044,Male,East,30,Smartwatch,Wearables,200,2,400,13.54,In Transit,8/8/2023
+CUST0299,Female,East,58,Smartphone,Electronics,800,5,4000,5.65,Delivered,12/16/2023
+CUST0291,Female,South,49,Monitor,Electronics,300,3,900,17.93,Delivered,5/29/2023
+CUST0266,Female,North,29,Monitor,Electronics,300,4,1200,5.79,In Transit,9/4/2023
+CUST0184,Female,North,54,Smartphone,Electronics,800,1,800,13.72,In Transit,8/30/2023
+CUST0130,Male,West,68,Keyboard,Accessories,50,3,150,8.99,Delivered,2/2/2023
+CUST0052,Male,South,66,Monitor,Electronics,300,4,1200,17.59,Returned,9/12/2023
+CUST0240,Male,East,39,Keyboard,Accessories,50,4,200,13.51,Delivered,12/21/2023
+CUST0054,Male,South,64,Smartphone,Electronics,800,1,800,19.15,Delivered,10/7/2023
+CUST0038,Female,North,57,Keyboard,Accessories,50,2,100,16.78,,11/16/2023
+CUST0023,Male,East,,Monitor,Electronics,300,5,1500,8.56,In Transit,10/30/2023
+CUST0183,Male,North,42,Mouse,Accessories,30,5,150,9.26,Delivered,2/21/2023
+CUST0012,Male,,28,Monitor,Electronics,300,5,1500,13.09,Delivered,3/12/2023
+CUST0136,Female,South,36,Mouse,Accessories,30,5,150,6.58,In Transit,10/17/2023
+CUST0052,Female,South,66,Mouse,Accessories,30,2,60,12.21,Delivered,6/5/2023
+CUST0141,Male,West,58,Monitor,Electronics,300,4,1200,6.4,Delivered,3/3/2023
+CUST0144,Male,South,54,Smartphone,Electronics,800,5,4000,19.43,In Transit,7/12/2023
+CUST0156,Female,North,57,Monitor,Electronics,300,1,300,15.49,In Transit,2/5/2023
+CUST0199,Male,West,,Smartphone,Electronics,800,3,2400,6.95,Returned,9/22/2023
+CUST0197,Male,North,54,Laptop,Electronics,1500,4,6000,5.05,Delivered,7/12/2023
+CUST0196,Female,West,37,Laptop,Electronics,1500,1,1500,12.95,Returned,11/6/2023
+CUST0243,Female,West,58,Headphones,Accessories,100,5,500,19.98,Returned,8/13/2023
+CUST0182,Male,South,19,Smartphone,Electronics,800,4,3200,12.3,Delivered,1/23/2023
+CUST0296,Female,South,50,Monitor,Electronics,300,4,1200,7.42,Delivered,10/7/2023
+CUST0296,Female,West,50,Mouse,Accessories,30,1,30,15.21,In Transit,11/15/2023
+CUST0264,Female,West,59,Monitor,Electronics,300,3,900,19.8,In Transit,12/26/2023
+CUST0136,Female,West,,Mouse,Accessories,30,5,150,13.14,Returned,11/11/2023
+CUST0010,Male,West,,Headphones,Accessories,100,5,500,15.78,Delivered,4/21/2023
+CUST0131,Male,West,67,Keyboard,Accessories,50,5,250,5.81,Delivered,5/18/2023
+CUST0252,Male,West,55,Headphones,Accessories,100,5,500,7.98,Returned,5/16/2023
+CUST0294,Female,East,49,Mouse,Accessories,30,5,150,19.83,In Transit,9/11/2023
+CUST0253,Male,West,51,Smartphone,Electronics,800,5,4000,16.14,Returned,6/12/2023
+CUST0289,Female,North,37,Mouse,Accessories,30,4,120,9,Returned,1/3/2024
+CUST0126,Female,North,66,Smartphone,Electronics,800,1,800,16.42,In Transit,9/26/2023
+CUST0024,Female,South,57,Laptop,Electronics,1500,1,1500,9.69,Delivered,11/22/2023
+CUST0058,Male,East,,Laptop,Electronics,1500,4,6000,16.49,Delivered,7/10/2023
+CUST0170,Male,West,40,Keyboard,Accessories,50,2,100,14,Delivered,11/23/2023
+CUST0064,Female,East,61,Laptop,Electronics,1500,3,4500,12.21,Returned,10/28/2023
+CUST0043,Male,North,22,Keyboard,Accessories,50,4,200,9.82,Delivered,1/5/2023
+CUST0103,Male,North,23,Smartwatch,Wearables,200,5,1000,14.5,Delivered,11/15/2023
+CUST0032,Male,North,63,Mouse,Accessories,30,4,120,14.68,Returned,3/11/2023
+CUST0182,Male,West,19,Mouse,Accessories,30,1,30,17.33,Delivered,8/31/2023
+CUST0076,Male,North,26,Headphones,Accessories,100,2,200,17.84,Delivered,12/12/2023
+CUST0215,Female,North,35,Monitor,Electronics,300,5,1500,19.58,Delivered,1/22/2023
+CUST0105,Male,South,27,Keyboard,Accessories,50,5,250,17.69,In Transit,12/31/2023
+CUST0295,Female,East,26,Smartphone,Electronics,800,5,4000,18.99,In Transit,12/31/2023
+CUST0002,Female,South,23,Keyboard,Accessories,50,5,250,17.96,In Transit,8/18/2023
+CUST0283,Female,East,67,Laptop,Electronics,1500,1,1500,11.14,In Transit,6/25/2023
+CUST0047,Female,West,41,Laptop,Electronics,1500,1,1500,14.86,Returned,10/21/2023
+CUST0153,Male,West,,Mouse,Accessories,30,2,60,6.54,Returned,11/21/2023
+CUST0047,Male,East,41,Headphones,Accessories,207.3040408,2,200,9.15,Returned,4/23/2023
+CUST0269,Male,East,64,Monitor,Electronics,300,4,1200,13.49,Returned,9/9/2023
+CUST0022,Male,North,,Laptop,Electronics,1500,2,3000,8.24,Delivered,4/15/2023
+CUST0106,Female,East,50,Smartphone,Electronics,800,3,2400,10.13,Returned,6/26/2023
+CUST0284,Male,South,64,Headphones,Accessories,100,2,200,10.57,In Transit,6/3/2023
+CUST0149,Male,South,40,Laptop,Electronics,1500,1,1500,14.19,In Transit,5/20/2023
+CUST0068,Male,East,64,Smartwatch,Wearables,200,3,600,5.7,In Transit,4/7/2023
+CUST0289,Female,East,37,Smartwatch,Wearables,200,5,1000,5.6,Returned,11/18/2023
+CUST0247,Male,South,44,Laptop,Electronics,1500,3,4500,18.21,In Transit,5/1/2023
+CUST0295,Male,West,26,Laptop,Electronics,1500,3,4500,12.84,,5/27/2023
+CUST0236,Male,West,18,Laptop,Electronics,1500,2,3000,18.07,Returned,1/23/2023
+CUST0148,Male,West,,Keyboard,Accessories,50,4,200,14.29,Delivered,10/8/2023
+CUST0122,Male,North,68,Headphones,Accessories,100,4,400,11.52,Returned,11/29/2023
+CUST0246,Female,South,64,Monitor,Electronics,300,3,900,15.77,Delivered,9/29/2023
+CUST0282,Male,North,68,Laptop,Electronics,1500,4,6000,5.24,Delivered,11/7/2023
+CUST0204,Male,West,54,Headphones,Accessories,100,5,500,8.64,Delivered,10/20/2023
+CUST0053,Male,North,25,Laptop,Electronics,1500,4,6000,13.08,In Transit,9/18/2023
+CUST0036,Male,,33,Smartphone,Electronics,800,4,3200,13.29,Returned,7/23/2023
+CUST0085,Male,West,18,Smartphone,Electronics,800,5,4000,13.44,Delivered,5/2/2023
+CUST0071,Female,South,,Headphones,Accessories,100,1,100,14.98,Delivered,12/4/2023
+CUST0248,Male,East,67,Monitor,Electronics,300,1,300,8.65,Returned,8/27/2023
+CUST0088,Female,West,66,Headphones,Accessories,100,5,500,14.84,Delivered,6/8/2023
+CUST0020,Female,North,55,Monitor,Electronics,300,1,300,7.38,Delivered,10/26/2023
+CUST0274,Female,East,51,Laptop,Electronics,1500,5,7500,12.33,In Transit,1/7/2023
+CUST0196,Male,East,37,Smartwatch,Wearables,200,5,1000,19.55,Delivered,4/23/2023
+CUST0022,Male,,33,Smartphone,Electronics,800,3,2400,5.22,Returned,9/12/2023
+CUST0211,Male,West,,Keyboard,Accessories,50,1,50,14.62,Returned,1/28/2023
+CUST0152,Female,South,69,Smartwatch,Wearables,200,3,600,19.07,Delivered,7/16/2023
+CUST0042,Male,East,57,Smartwatch,Wearables,200,5,1000,15.99,Returned,1/4/2023
+CUST0235,Male,East,19,Headphones,Accessories,100,5,500,19.53,In Transit,4/8/2023
+CUST0206,Male,South,43,Laptop,Electronics,1500,5,7500,13.04,In Transit,5/3/2023
+CUST0103,Female,,23,Mouse,Accessories,30,2,60,18.45,Returned,7/15/2023
+CUST0179,Male,North,45,Smartphone,Electronics,800,4,3200,15.02,Returned,9/28/2023
+CUST0157,Female,East,48,Keyboard,Accessories,50,4,200,8.27,In Transit,5/22/2023
+CUST0272,Male,South,52,Mouse,Accessories,30,3,90,8.66,In Transit,3/30/2023
+CUST0071,Female,South,46,Headphones,Accessories,100,5,500,11.88,Returned,8/2/2023
+CUST0268,Male,North,21,Keyboard,Accessories,50,3,150,15.03,In Transit,5/20/2023
+CUST0017,Female,West,36,Keyboard,Accessories,50,5,250,12.63,Delivered,12/17/2023
+CUST0221,Male,West,33,Monitor,Electronics,300,3,900,7.25,Returned,11/1/2023
+CUST0207,Male,West,54,Headphones,Accessories,100,2,200,6.22,Returned,1/3/2024
+CUST0077,Male,East,50,Monitor,Electronics,300,3,900,14.75,Delivered,1/8/2023
+CUST0253,Female,East,51,Headphones,Accessories,100,4,400,17.18,In Transit,9/25/2023
+CUST0253,Female,East,51,Keyboard,Accessories,50,3,150,14.99,In Transit,4/18/2023
+CUST0225,Female,North,,Smartwatch,Wearables,200,1,200,17.3,Delivered,2/19/2023
+CUST0091,Female,West,30,Headphones,Accessories,100,1,100,6.47,Delivered,6/1/2023
+CUST0142,Female,South,32,Keyboard,Accessories,50,5,250,10.39,In Transit,6/28/2023
+CUST0142,Female,South,32,Monitor,Electronics,300,1,300,9.57,In Transit,4/24/2023
+CUST0032,Male,North,63,Smartphone,Electronics,800,2,1600,6.57,Delivered,12/8/2023
+CUST0011,Male,West,54,Keyboard,Accessories,50,1,50,13.9,Delivered,11/4/2023
+CUST0204,Male,West,54,Laptop,Electronics,3109.560612,5,7500,19.71,Returned,4/18/2023
+CUST0068,Male,East,64,Smartwatch,Wearables,200,2,400,11.49,Returned,9/24/2023
+CUST0222,Female,East,61,Mouse,Accessories,30,2,60,13.74,Delivered,11/13/2023
+CUST0145,Male,East,51,Laptop,Electronics,1500,1,1500,15.23,Returned,10/10/2023
+CUST0083,Female,South,28,Laptop,Electronics,1500,1,1500,19.84,,2/17/2023
+CUST0158,Female,North,51,Headphones,Accessories,100,3,300,18.63,,3/20/2023
+CUST0063,Female,North,20,Laptop,Electronics,1500,5,7500,15.07,In Transit,10/28/2023
+CUST0249,Male,South,33,Monitor,Electronics,300,5,1500,15.98,In Transit,1/16/2023
+CUST0012,Male,West,28,Monitor,Electronics,300,2,600,14.13,Delivered,2/11/2023
+CUST0038,Male,East,57,Monitor,Electronics,300,2,600,17.67,In Transit,12/18/2023
+CUST0216,Female,West,53,Keyboard,Accessories,50,5,250,15.62,Returned,9/1/2023
+CUST0172,Female,South,56,Monitor,Electronics,300,5,1500,12.62,Returned,7/20/2023
+CUST0048,Male,North,34,Monitor,Electronics,300,2,600,11.88,Returned,9/23/2023
+CUST0260,Male,East,32,Monitor,Electronics,300,2,600,12.92,Returned,7/14/2023
+CUST0063,Male,North,20,Smartwatch,Wearables,200,4,800,15.78,Delivered,6/14/2023
+CUST0218,Male,,36,Laptop,Electronics,1500,4,6000,14,Returned,6/6/2023
+CUST0263,Male,North,,Smartphone,Electronics,800,2,1600,7.17,,1/9/2023
+CUST0160,Male,South,69,Monitor,Electronics,300,2,600,18.79,Delivered,7/29/2023
+CUST0250,Female,North,64,Smartphone,Electronics,800,2,1600,17.54,Returned,8/5/2023
+CUST0038,Male,North,57,Keyboard,Accessories,50,3,150,18.44,In Transit,2/21/2023
+CUST0048,Male,North,34,Monitor,Electronics,300,2,600,12.94,In Transit,5/5/2023
+CUST0183,Female,West,42,Monitor,Electronics,300,3,900,14.11,Returned,1/16/2023
+CUST0240,Female,,39,Headphones,Accessories,100,1,100,7.09,Delivered,6/26/2023
+CUST0155,Male,North,41,Smartwatch,Wearables,200,1,200,18.84,In Transit,4/20/2023
+CUST0185,Male,North,29,Laptop,Electronics,1500,5,7500,13.95,Delivered,10/30/2023
+CUST0229,Female,North,,Headphones,Accessories,100,4,400,11.95,Delivered,9/4/2023
+CUST0229,Male,North,45,Mouse,Accessories,30,3,90,10.06,Delivered,2/18/2023
+CUST0139,Male,North,57,Mouse,Accessories,30,5,150,19.16,Returned,1/7/2023
+CUST0009,Male,West,50,Headphones,Accessories,100,2,200,19.13,,10/8/2023
+CUST0095,Male,West,60,Keyboard,Accessories,50,5,250,13,Returned,12/19/2023
+CUST0001,Female,East,38,Keyboard,Accessories,50,3,150,6.14,Returned,4/10/2023
+CUST0200,Male,East,68,Laptop,Electronics,1500,3,4500,11.29,Returned,6/1/2023
+CUST0086,Male,West,26,Smartwatch,Wearables,200,5,1000,14.83,Delivered,7/3/2023
+CUST0193,Female,North,64,Monitor,Electronics,300,3,900,15.97,Delivered,10/15/2023
+CUST0193,Female,East,64,Headphones,Accessories,100,4,400,12.48,In Transit,6/10/2023
+CUST0044,Female,East,30,Monitor,Electronics,300,4,1200,10.86,Delivered,9/3/2023
+CUST0187,Male,East,25,Laptop,Electronics,1500,5,7500,16.95,Delivered,3/4/2023
+CUST0006,Female,East,52,Headphones,Accessories,100,2,200,18.95,In Transit,1/24/2023
+CUST0021,Male,North,43,Mouse,Accessories,30,4,120,10.77,,9/24/2023
+CUST0271,Female,South,46,Headphones,Accessories,100,2,200,19.54,Returned,6/20/2023
+CUST0160,Male,East,69,Laptop,Electronics,1500,4,6000,10,Delivered,11/15/2023
+CUST0095,Female,East,,Laptop,Electronics,1500,5,7500,12.35,In Transit,4/28/2023
+CUST0025,Female,East,56,Monitor,Electronics,300,3,900,17.34,Returned,5/22/2023
+CUST0188,Male,West,29,Keyboard,Accessories,50,3,150,12.06,Returned,4/2/2023
+CUST0238,Female,West,,Mouse,Accessories,30,2,60,14.07,,11/15/2023
+CUST0180,Male,North,,Laptop,Electronics,1500,2,3000,16.82,,10/5/2023
+CUST0011,Female,North,54,Smartphone,Electronics,800,5,4000,19.49,Returned,8/22/2023
+CUST0264,Male,West,59,Keyboard,Accessories,50,2,100,15.51,Returned,7/16/2023
+CUST0156,Male,East,57,Smartwatch,Wearables,200,5,1000,9.77,Returned,1/27/2023
+CUST0044,Male,West,30,Headphones,Accessories,100,1,100,15.64,Delivered,9/6/2023
+CUST0202,Male,East,56,Smartphone,Electronics,800,5,4000,12.22,Delivered,5/6/2023
+CUST0171,Male,East,21,Headphones,Accessories,100,5,500,13.7,In Transit,1/14/2023
+CUST0109,Female,,57,Laptop,Electronics,1500,4,6000,12.77,Delivered,4/28/2023
+CUST0213,Female,North,45,Monitor,Electronics,300,4,1200,14.76,Delivered,1/2/2023
+CUST0261,Male,North,,Mouse,Accessories,30,3,90,11.71,Delivered,11/9/2023
+CUST0030,Female,East,44,Smartphone,Electronics,800,5,4000,17.36,Returned,7/3/2023
+CUST0145,Male,North,51,Headphones,Accessories,100,4,400,10.89,Delivered,1/14/2023
+CUST0044,Male,,30,Smartphone,Electronics,800,1,800,14.23,In Transit,2/23/2023
+CUST0199,Male,North,41,Monitor,Electronics,300,1,300,9.5,Delivered,6/11/2023
+CUST0111,Female,West,19,Monitor,Electronics,300,3,900,13.79,In Transit,5/16/2023
+CUST0124,Male,South,53,Smartphone,Electronics,800,1,800,5.36,Returned,3/16/2023
+CUST0299,Male,West,58,Smartphone,Electronics,800,5,4000,19.93,In Transit,1/3/2023
+CUST0241,Female,,27,Keyboard,Accessories,50,2,100,19.92,Delivered,6/2/2023
+CUST0010,Male,South,37,Smartwatch,Wearables,200,2,400,14.16,Delivered,6/6/2023
+CUST0293,Female,East,32,Laptop,Electronics,1500,5,7500,7.52,Returned,10/28/2023
+CUST0225,Male,West,65,Monitor,Electronics,300,4,1200,10.09,Returned,1/31/2023
+CUST0197,Male,North,54,Laptop,Electronics,1500,4,6000,6.73,In Transit,4/28/2023
+CUST0035,Female,West,20,Mouse,Accessories,30,4,120,5.19,Returned,7/22/2023
+CUST0280,Male,,44,Keyboard,Accessories,50,1,50,12.3,Delivered,6/12/2023
+CUST0129,Male,South,66,Laptop,Electronics,1500,4,6000,13.08,In Transit,3/20/2023
+CUST0144,Female,,54,Laptop,Electronics,1500,4,6000,12,Returned,4/14/2023
+CUST0174,Male,North,68,Mouse,Accessories,30,2,60,9.28,Delivered,5/4/2023
+CUST0219,Female,South,48,Keyboard,Accessories,50,5,250,14.34,Delivered,9/28/2023
+CUST0198,Male,South,56,Monitor,Electronics,300,2,600,17.13,In Transit,8/1/2023
+CUST0139,Male,North,57,Monitor,Electronics,300,1,300,13.55,Delivered,9/26/2023
+CUST0149,Male,West,40,Mouse,Accessories,30,5,150,9.01,Returned,11/14/2023
+CUST0031,Male,North,67,Laptop,Electronics,1500,4,6000,13.3,Delivered,11/1/2023
+CUST0036,Female,South,33,Headphones,Accessories,100,5,500,8.27,In Transit,6/30/2023
+CUST0029,Female,West,66,Laptop,Electronics,1500,2,3000,9.26,In Transit,10/10/2023
+CUST0071,Male,West,46,Monitor,Electronics,300,3,900,18.83,Returned,9/19/2023
+CUST0108,Female,East,,Monitor,Electronics,300,1,300,6.55,Delivered,1/3/2024
+CUST0251,Male,East,42,Laptop,Electronics,1500,2,3000,12.17,,1/9/2023
+CUST0142,Male,North,32,Laptop,Electronics,1500,1,1500,8.53,In Transit,8/11/2023
+CUST0025,Male,West,56,Monitor,Electronics,300,1,300,8.87,Returned,7/25/2023
+CUST0031,Female,South,67,Smartwatch,Wearables,200,1,200,5.45,Returned,9/30/2023
+CUST0159,Male,North,,Headphones,Accessories,100,2,200,10.39,Returned,10/26/2023
+CUST0094,Male,South,30,Headphones,Accessories,100,4,400,13.94,Delivered,12/22/2023
+CUST0072,Male,East,21,Headphones,Accessories,100,4,400,12.96,In Transit,9/13/2023
+CUST0078,Female,South,38,Keyboard,Accessories,50,4,200,11,Returned,12/26/2023
+CUST0105,Male,West,27,Laptop,Electronics,1500,2,3000,13.22,In Transit,9/6/2023
+CUST0152,Male,North,69,Monitor,Electronics,300,5,1500,17.75,In Transit,11/14/2023
+CUST0160,Female,West,69,Smartphone,Electronics,800,3,2400,15.53,In Transit,4/25/2023
+CUST0248,Female,South,67,Laptop,Electronics,1500,1,1500,13.92,Delivered,7/26/2023
+CUST0133,Male,West,47,Smartwatch,Wearables,200,3,600,13.73,Delivered,6/15/2023
+CUST0260,Male,West,32,Monitor,Electronics,300,3,900,8.48,Delivered,5/22/2023
+CUST0051,Female,West,41,Laptop,Electronics,1500,3,4500,13.82,Delivered,12/7/2023
+CUST0177,Female,East,29,Mouse,Accessories,30,1,30,11.33,In Transit,2/28/2023
+CUST0004,Male,North,65,Monitor,Electronics,300,4,1200,11.14,,1/3/2024
+CUST0195,Female,East,48,Smartwatch,Wearables,200,5,1000,10.9,In Transit,5/4/2023
+CUST0122,Male,East,68,Laptop,Electronics,1500,1,1500,19.37,,8/27/2023
+CUST0058,Female,North,42,Mouse,Accessories,30,5,150,8.28,Returned,11/14/2023
+CUST0039,Male,,60,Laptop,Electronics,1500,1,1500,10.84,In Transit,9/6/2023
+CUST0066,Female,North,37,Smartphone,Electronics,800,1,800,12.78,Returned,1/3/2023
+CUST0204,Female,South,54,Laptop,Electronics,1500,4,6000,12.84,Delivered,2/20/2023
+CUST0208,Female,South,57,Monitor,Electronics,300,1,300,6.55,Delivered,4/13/2023
+CUST0196,Female,East,37,Keyboard,Accessories,50,4,200,12.81,Delivered,1/5/2023
+CUST0250,Female,North,64,Laptop,Electronics,1500,1,1500,18.19,In Transit,5/22/2023
+CUST0227,Male,South,54,Smartwatch,Wearables,200,3,600,16.36,In Transit,8/10/2023
+CUST0107,Male,West,67,Laptop,Electronics,1500,4,6000,14.85,Delivered,6/11/2023
+CUST0177,Female,East,29,Smartwatch,Wearables,200,4,800,17.93,Delivered,2/25/2023
+CUST0174,Female,South,68,Headphones,Accessories,100,2,200,11.73,,6/5/2023
+CUST0066,Male,West,37,Mouse,Accessories,30,3,90,13.86,Delivered,10/17/2023
+CUST0117,Male,North,22,Mouse,Accessories,30,5,150,18.22,Returned,1/25/2023
+CUST0008,Male,,18,Monitor,Electronics,300,2,600,8.33,In Transit,1/10/2023
+CUST0010,Female,West,,Laptop,Electronics,1500,3,4500,6.86,In Transit,12/27/2023
+CUST0107,Male,South,,Keyboard,Accessories,50,5,250,9.87,Returned,11/3/2023
+CUST0271,Male,West,,Smartwatch,Wearables,200,2,400,8.05,In Transit,4/10/2023
+CUST0149,Male,North,40,Smartwatch,Wearables,200,4,800,11.68,Delivered,12/27/2023
+CUST0173,Male,South,65,Laptop,Electronics,1500,3,4500,13.18,In Transit,12/22/2023
+CUST0042,Female,East,57,Smartphone,Electronics,800,2,1600,9.01,In Transit,11/8/2023
+CUST0106,Female,South,50,Headphones,Accessories,100,3,300,17.63,Delivered,12/7/2023
+CUST0235,Male,West,19,Monitor,Electronics,300,1,300,7.48,In Transit,3/6/2023
+CUST0220,Male,South,,Mouse,Accessories,30,1,30,6.7,In Transit,5/7/2023
+CUST0264,Female,South,,Mouse,Accessories,30,5,150,14.88,Delivered,12/7/2023
+CUST0020,Female,South,55,Smartphone,Electronics,800,4,3200,8.31,Returned,9/13/2023
+CUST0139,Female,,57,Smartphone,Electronics,800,3,2400,19.61,Returned,12/31/2023
+CUST0022,Female,South,33,Keyboard,Accessories,50,2,100,16.28,Returned,4/20/2023
+CUST0101,Female,North,53,Monitor,Electronics,300,4,1200,10.58,,3/31/2023
+CUST0271,Male,East,46,Monitor,Electronics,300,4,1200,19.38,In Transit,11/20/2023
+CUST0197,Female,West,54,Mouse,Accessories,30,3,90,14.77,In Transit,12/9/2023
+CUST0135,Male,West,41,Smartwatch,Wearables,200,1,200,13.72,In Transit,6/6/2023
+CUST0174,Male,West,68,Mouse,Accessories,30,5,150,16.66,In Transit,12/12/2023
+CUST0139,Male,West,57,Laptop,Electronics,1500,5,7500,8.19,In Transit,7/30/2023
+CUST0058,Male,West,42,Headphones,Accessories,100,5,500,5.43,Delivered,10/24/2023
+CUST0152,Male,East,69,Smartwatch,Wearables,200,5,1000,7.71,In Transit,10/25/2023
+CUST0231,Male,South,,Keyboard,Accessories,50,2,100,13.53,In Transit,7/13/2023
+CUST0288,Male,North,,Keyboard,Accessories,50,3,150,6.88,Returned,5/28/2023
+CUST0296,Male,South,50,Monitor,Electronics,300,5,1500,8.08,Returned,1/3/2024
+CUST0155,Female,East,41,Monitor,Electronics,300,1,300,16.71,Delivered,10/11/2023
+CUST0128,Female,South,,Monitor,Electronics,300,3,900,14.38,Returned,2/28/2023
+CUST0178,Male,North,44,Smartwatch,Wearables,200,3,600,11.82,Delivered,4/18/2023
+CUST0298,Male,South,58,Smartphone,Electronics,800,2,1600,12.94,Returned,11/11/2023
+CUST0064,Male,West,61,Laptop,Electronics,3109.560612,1,1500,18.37,In Transit,9/1/2023
+CUST0091,Female,West,30,Mouse,Accessories,30,3,90,11.78,Returned,8/14/2023
+CUST0113,Female,East,38,Laptop,Electronics,1500,3,4500,7.52,Delivered,2/3/2023
+CUST0087,Female,,49,Mouse,Accessories,30,2,60,17.46,Delivered,2/5/2023
+CUST0087,Male,South,49,Monitor,Electronics,300,3,900,17.94,,1/20/2023
+CUST0255,Male,West,,Smartphone,Electronics,800,3,2400,10.5,Delivered,2/18/2023
+CUST0044,Female,South,30,Monitor,Electronics,300,1,300,14.91,In Transit,7/29/2023
+CUST0133,Female,East,47,Laptop,Electronics,1500,3,4500,15.5,Delivered,7/25/2023
+CUST0122,Male,East,68,Monitor,Electronics,300,3,900,16.44,Delivered,12/16/2023
+CUST0220,Male,West,67,Laptop,Electronics,1500,2,3000,13.04,Returned,3/30/2023
+CUST0182,Male,East,19,Headphones,Accessories,100,2,200,14.11,Returned,1/22/2023
+CUST0081,Male,North,38,Monitor,Electronics,300,2,600,5.79,Returned,1/19/2023
+CUST0224,Male,South,57,Smartwatch,Wearables,200,4,800,13.93,Delivered,12/13/2023
+CUST0070,Male,South,23,Smartphone,Electronics,800,1,800,6.7,,7/6/2023
+CUST0263,Female,West,40,Monitor,Electronics,300,1,300,11.65,Delivered,7/22/2023
+CUST0052,Female,North,66,Keyboard,Accessories,50,4,200,14.49,Delivered,6/6/2023
+CUST0253,Male,North,51,Monitor,Electronics,300,5,1500,14.23,In Transit,8/3/2023
+CUST0095,Male,North,60,Monitor,Electronics,300,2,600,15.88,In Transit,1/12/2023
+CUST0031,Male,East,67,Keyboard,Accessories,50,1,50,19.41,In Transit,7/29/2023
+CUST0128,Male,,52,Smartphone,Electronics,800,4,3200,15.79,In Transit,8/20/2023
+CUST0077,Male,West,50,Mouse,Accessories,30,4,120,17.84,Returned,3/9/2023
+CUST0073,Male,South,19,Smartwatch,Wearables,200,3,600,10.07,In Transit,11/18/2023
+CUST0173,Male,West,65,Mouse,Accessories,30,5,150,15.11,Delivered,8/31/2023
+CUST0218,Female,East,36,Monitor,Electronics,300,4,1200,11.23,In Transit,8/17/2023
+CUST0274,Male,South,51,Keyboard,Accessories,50,5,250,15.38,Returned,8/7/2023
+CUST0034,Female,East,65,Keyboard,Accessories,50,3,150,10.84,,11/17/2023
+CUST0285,Female,South,58,Monitor,Electronics,300,4,1200,13.4,Delivered,3/31/2023
+CUST0117,Female,South,22,Headphones,Accessories,100,3,300,7.7,Delivered,7/20/2023
+CUST0208,Male,North,57,Mouse,Accessories,30,4,120,15.44,Delivered,6/12/2023
+CUST0107,Female,South,67,Headphones,Accessories,100,5,500,8.74,Returned,6/8/2023
+CUST0145,Male,North,,Headphones,Accessories,100,4,400,14.68,In Transit,12/8/2023
+CUST0232,Female,,44,Laptop,Electronics,1500,5,7500,18.3,Returned,11/7/2023
+CUST0039,Male,East,60,Smartwatch,Wearables,200,1,200,10.14,,12/2/2023
+CUST0195,Female,West,48,Keyboard,Accessories,50,3,150,6.42,In Transit,10/31/2023
+CUST0185,Female,South,29,Monitor,Electronics,300,5,1500,18.18,In Transit,9/6/2023
+CUST0281,Female,South,,Keyboard,Accessories,50,3,150,5.62,In Transit,3/5/2023
+CUST0061,Female,South,35,Smartphone,Electronics,800,1,800,17.3,In Transit,5/7/2023
+CUST0232,Male,East,44,Mouse,Accessories,30,3,90,14.91,In Transit,10/20/2023
+CUST0013,Female,South,55,Smartwatch,Wearables,200,4,800,7.31,Returned,3/16/2023
+CUST0058,Female,West,42,Keyboard,Accessories,50,1,50,8.05,Delivered,7/13/2023
+CUST0159,Female,North,18,Laptop,Electronics,1500,1,1500,5.29,Returned,1/21/2023
+CUST0236,Male,West,18,Laptop,Electronics,1500,3,4500,19.41,Delivered,8/19/2023
+CUST0281,Female,North,44,Monitor,Electronics,300,2,600,19.97,In Transit,9/30/2023
+CUST0213,Female,South,,Smartwatch,Wearables,200,5,1000,9.18,In Transit,10/31/2023
+CUST0286,Male,West,63,Keyboard,Accessories,50,2,100,6.28,Returned,3/21/2023
+CUST0136,Female,East,36,Keyboard,Accessories,50,4,200,9.3,Returned,7/9/2023
+CUST0228,Male,West,25,Keyboard,Accessories,50,1,50,18.71,In Transit,12/7/2023
+CUST0124,Female,North,,Headphones,Accessories,100,5,500,14.28,Returned,6/2/2023
+CUST0201,Male,West,49,Smartphone,Electronics,800,1,800,12.3,Delivered,5/30/2023
+CUST0038,Male,,57,Smartphone,Electronics,800,2,1600,19.87,Returned,6/1/2023
+CUST0276,Female,South,66,Laptop,Electronics,1500,3,4500,14.73,Delivered,12/1/2023
+CUST0201,Female,North,49,Smartwatch,Wearables,200,3,600,9.26,Delivered,10/23/2023
+CUST0104,Female,East,40,Keyboard,Accessories,50,4,200,15.14,Delivered,6/17/2023
+CUST0101,Female,East,53,Smartwatch,Wearables,200,4,800,14.28,,11/5/2023
+CUST0138,Female,West,46,Laptop,Electronics,3109.560612,2,3000,6.44,Delivered,12/8/2023
+CUST0035,Female,South,20,Keyboard,Accessories,50,3,150,11.05,Returned,9/16/2023
+CUST0273,Female,South,55,Mouse,Accessories,30,3,90,11.24,Returned,9/9/2023
+CUST0228,Female,West,25,Smartphone,Electronics,800,1,800,7.25,In Transit,3/9/2023
+CUST0191,Female,,41,Laptop,Electronics,1500,4,6000,6.76,,8/1/2023
+CUST0087,Female,North,,Headphones,Accessories,100,2,200,19.07,,5/8/2023
+CUST0070,Female,West,23,Laptop,Electronics,1500,5,7500,19.41,Delivered,12/21/2023
+CUST0088,Male,West,66,Monitor,Electronics,300,1,300,7.84,In Transit,12/8/2023
+CUST0287,Female,South,60,Smartphone,Electronics,800,4,3200,9.99,Returned,6/29/2023
+CUST0116,Male,South,20,Monitor,Electronics,300,2,600,9.77,Returned,9/24/2023
+CUST0037,Female,West,51,Smartphone,Electronics,800,3,2400,15.28,In Transit,5/22/2023
+CUST0215,Female,East,35,Mouse,Accessories,30,3,90,8.79,Returned,7/29/2023
+CUST0104,Male,West,40,Keyboard,Accessories,50,4,200,12.79,Delivered,10/19/2023
+CUST0197,Male,North,54,Smartphone,Electronics,800,5,4000,9.55,Delivered,9/2/2023
+CUST0298,Female,East,58,Mouse,Accessories,30,4,120,8.85,Returned,6/21/2023
+CUST0079,Male,South,26,Keyboard,Accessories,50,2,100,9.76,In Transit,6/13/2023
+CUST0021,Female,East,43,Smartwatch,Wearables,200,1,200,6.18,In Transit,12/28/2023
+CUST0162,Male,East,69,Laptop,Electronics,1500,3,4500,6.08,Returned,7/6/2023
+CUST0090,Male,West,61,Laptop,Electronics,1500,4,6000,9.46,Delivered,6/13/2023
+CUST0064,Female,West,61,Headphones,Accessories,100,1,100,6.6,Returned,3/20/2023
+CUST0148,Female,North,67,Mouse,Accessories,30,4,120,19.59,In Transit,2/20/2023
+CUST0081,Female,West,38,Monitor,Electronics,300,4,1200,12.55,Delivered,8/27/2023
+CUST0160,Male,North,69,Keyboard,Accessories,50,5,250,14.32,,2/3/2023
+CUST0080,Male,West,51,Smartphone,Electronics,800,5,4000,6.74,Delivered,9/27/2023
+CUST0091,Male,South,30,Headphones,Accessories,100,2,200,7.01,In Transit,3/18/2023
+CUST0112,Male,East,33,Laptop,Electronics,1500,2,3000,14.97,Delivered,1/17/2023
+CUST0030,Female,West,44,Headphones,Accessories,100,4,400,10.03,In Transit,5/11/2023
+CUST0276,Male,South,66,Keyboard,Accessories,50,2,100,8.51,In Transit,3/10/2023
+CUST0034,Female,West,65,Keyboard,Accessories,50,1,50,7.55,Delivered,6/27/2023
+CUST0271,Female,North,46,Mouse,Accessories,30,4,120,18.31,In Transit,11/7/2023
+CUST0034,Male,North,65,Laptop,Electronics,1500,5,7500,16.39,Returned,4/8/2023
+CUST0122,Male,North,68,Laptop,Electronics,1500,2,3000,18.77,Returned,10/27/2023
+CUST0223,Female,East,20,Laptop,Electronics,1500,5,7500,9.26,Returned,2/1/2023
+CUST0052,Male,North,66,Smartphone,Electronics,800,4,3200,15.69,In Transit,5/27/2023
+CUST0176,Male,South,,Keyboard,Accessories,50,4,200,11.55,Delivered,10/1/2023
+CUST0276,Male,West,66,Smartphone,Electronics,800,3,2400,15.27,In Transit,5/5/2023
+CUST0185,Female,West,29,Keyboard,Accessories,50,4,200,6.75,Delivered,12/22/2023
+CUST0253,Female,East,51,Headphones,Accessories,100,2,200,5.79,Delivered,6/13/2023
+CUST0055,Male,East,45,Smartwatch,Wearables,200,4,800,10.62,Returned,1/11/2023
+CUST0229,Female,North,,Monitor,Electronics,300,1,300,5.83,Delivered,2/7/2023
+CUST0149,Female,,40,Headphones,Accessories,100,2,200,9.42,Returned,7/14/2023
+CUST0028,Male,East,50,Mouse,Accessories,30,5,150,6.26,Delivered,4/7/2023
+CUST0011,Male,South,54,Headphones,Accessories,100,1,100,19.25,Delivered,12/18/2023
+CUST0259,Male,West,59,Mouse,Accessories,30,2,60,18.17,In Transit,11/17/2023
+CUST0296,Female,West,50,Monitor,Electronics,300,1,300,5.94,Returned,12/26/2023
+CUST0101,Male,East,53,Headphones,Accessories,100,3,300,15.61,In Transit,12/4/2023
+CUST0288,Male,West,55,Laptop,Electronics,1500,2,3000,9.06,Delivered,6/8/2023
+CUST0206,Female,,43,Keyboard,Accessories,50,4,200,16.25,In Transit,8/14/2023
+CUST0179,Male,North,45,Monitor,Electronics,300,4,1200,7.16,In Transit,11/13/2023
+CUST0293,Male,West,32,Monitor,Electronics,300,2,600,9.52,In Transit,10/17/2023
+CUST0120,Female,North,35,Headphones,Accessories,100,4,400,12.85,Delivered,7/23/2023
+CUST0112,Male,West,33,Smartphone,Electronics,800,5,4000,5.14,Returned,6/15/2023
+CUST0218,Female,East,36,Mouse,Accessories,30,5,150,6.78,In Transit,7/18/2023
+CUST0018,Female,South,38,Keyboard,Accessories,50,5,250,12.25,In Transit,5/12/2023
+CUST0193,Male,North,64,Laptop,Electronics,1500,4,6000,9.87,Delivered,2/19/2023
+CUST0088,Male,West,66,Laptop,Electronics,1500,4,6000,11.5,In Transit,10/17/2023
+CUST0116,Male,South,20,Mouse,Accessories,30,3,90,16.07,Returned,9/30/2023
+CUST0152,Female,West,69,Keyboard,Accessories,50,4,200,18.96,Returned,5/20/2023
+CUST0290,Female,East,37,Smartwatch,Wearables,200,4,800,5.98,In Transit,4/27/2023
+CUST0293,Male,South,32,Monitor,Electronics,300,2,600,14.24,Delivered,3/27/2023
+CUST0080,Male,South,51,Monitor,Electronics,300,5,1500,11.39,Returned,7/31/2023
+CUST0134,Female,North,58,Keyboard,Accessories,50,4,200,17.65,In Transit,2/11/2023
+CUST0010,Female,East,37,Smartphone,Electronics,800,5,4000,6.67,In Transit,1/4/2023
+CUST0252,Male,South,55,Smartwatch,Wearables,200,3,600,8.26,,8/30/2023
+CUST0211,Female,West,35,Monitor,Electronics,300,5,1500,18.94,Returned,3/6/2023
+CUST0095,Female,South,60,Monitor,Electronics,300,3,900,19.78,In Transit,2/26/2023
+CUST0226,Male,North,43,Smartphone,Electronics,800,4,3200,10.65,Returned,2/25/2023
+CUST0238,Female,North,26,Smartwatch,Wearables,200,4,800,14.25,Delivered,1/3/2023
+CUST0274,Male,West,51,Monitor,Electronics,300,4,1200,6.26,Returned,12/28/2023
+CUST0225,Male,South,65,Keyboard,Accessories,50,3,150,12.69,Delivered,11/18/2023
+CUST0233,Male,West,24,Smartwatch,Wearables,200,3,600,19.39,In Transit,3/11/2023
+CUST0208,Male,North,57,Headphones,Accessories,100,4,400,14.49,In Transit,9/19/2023
+CUST0006,Male,South,52,Smartwatch,Wearables,200,5,1000,13.13,In Transit,5/15/2023
+CUST0181,Male,North,59,Monitor,Electronics,300,4,1200,15.92,In Transit,10/23/2023
+CUST0126,Male,West,66,Smartwatch,Wearables,200,5,1000,12.06,Returned,3/7/2023
+CUST0118,Male,East,23,Keyboard,Accessories,50,1,50,16.34,In Transit,1/16/2023
+CUST0007,Female,North,52,Smartwatch,Wearables,200,3,600,15.85,Delivered,4/10/2023
+CUST0263,Female,South,,Headphones,Accessories,100,3,300,19.01,In Transit,9/13/2023
+CUST0256,Male,East,,Laptop,Electronics,1500,3,4500,9.83,In Transit,9/26/2023
+CUST0172,Female,East,56,Mouse,Accessories,30,4,120,5.17,In Transit,11/23/2023
+CUST0114,Male,South,,Smartphone,Electronics,800,3,2400,15.04,In Transit,8/12/2023
+CUST0198,Male,West,,Smartphone,Electronics,800,5,4000,18.49,Delivered,12/13/2023
+CUST0234,Female,South,44,Smartwatch,Wearables,200,1,200,7.67,Returned,7/8/2023
+CUST0182,Female,North,19,Keyboard,Accessories,50,3,150,5.76,In Transit,7/25/2023
+CUST0104,Male,,40,Smartwatch,Wearables,200,1,200,16.29,In Transit,7/8/2023
+CUST0232,Male,West,44,Headphones,Accessories,100,1,100,6.43,Returned,7/28/2023
+CUST0160,Male,West,69,Laptop,Electronics,1500,1,1500,7.32,Returned,9/19/2023
+CUST0105,Female,South,27,Smartwatch,Wearables,200,2,400,9.97,Returned,1/18/2023
+CUST0065,Female,West,41,Smartwatch,Wearables,200,5,1000,12.79,In Transit,1/6/2023
+CUST0220,Female,North,,Mouse,Accessories,30,4,120,17.23,Returned,7/9/2023
+CUST0150,Male,West,63,Mouse,Accessories,62.19121225,5,150,10.81,Delivered,7/1/2023
+CUST0300,Male,East,66,Smartwatch,Wearables,200,4,800,16.99,Returned,10/15/2023
+CUST0066,Female,North,37,Monitor,Electronics,300,3,900,17.15,In Transit,1/3/2024
+CUST0255,Male,South,39,Laptop,Electronics,1500,2,3000,11.24,Returned,11/16/2023
+CUST0154,Female,North,31,Monitor,Electronics,300,2,600,5.84,In Transit,8/19/2023
+CUST0112,Female,West,33,Smartphone,Electronics,800,2,1600,7.61,Returned,12/8/2023
+CUST0130,Male,East,68,Headphones,Accessories,100,4,400,14.97,Returned,12/9/2023
+CUST0061,Female,South,35,Monitor,Electronics,300,1,300,15.16,Returned,10/25/2023
+CUST0046,Male,East,22,Laptop,Electronics,1500,2,3000,15.58,Delivered,12/16/2023
+CUST0200,Female,North,68,Laptop,Electronics,1500,1,1500,5.57,Delivered,8/6/2023
+CUST0001,Male,East,38,Laptop,Electronics,1500,4,6000,11.28,Returned,4/26/2023
+CUST0101,Female,West,53,Smartphone,Electronics,800,4,3200,14.35,Delivered,6/27/2023
+CUST0113,Female,West,38,Keyboard,Accessories,50,4,200,19.17,Returned,1/26/2023
+CUST0076,Male,South,26,Mouse,Accessories,30,1,30,10.22,Delivered,10/26/2023
+CUST0120,Male,North,35,Keyboard,Accessories,50,3,150,12.89,In Transit,1/30/2023
+CUST0265,Female,North,38,Keyboard,Accessories,50,4,200,7.52,In Transit,5/29/2023
+CUST0214,Female,South,45,Monitor,Electronics,300,2,600,9.09,In Transit,10/2/2023
+CUST0058,Male,North,42,Monitor,Electronics,300,4,1200,5.56,In Transit,6/6/2023
+CUST0288,Male,North,,Smartwatch,Wearables,200,2,400,19.66,Returned,1/31/2023
+CUST0210,Male,South,30,Monitor,Electronics,300,1,300,11.26,Returned,12/31/2023
+CUST0116,Male,South,20,Mouse,Accessories,30,1,30,5.41,In Transit,1/5/2023
+CUST0059,Female,South,18,Laptop,Electronics,1500,2,3000,10.13,Delivered,6/10/2023
+CUST0239,Female,South,35,Smartphone,Electronics,800,4,3200,7.74,Delivered,5/26/2023
+CUST0099,Male,West,,Smartwatch,Wearables,200,1,200,8.28,In Transit,10/6/2023
+CUST0018,Female,South,38,Monitor,Electronics,300,2,600,17.38,Delivered,4/16/2023
+CUST0028,Male,West,50,Keyboard,Accessories,50,4,200,11.39,Delivered,1/17/2023
+CUST0159,Male,South,18,Laptop,Electronics,1500,3,4500,18.83,In Transit,3/22/2023
+CUST0053,Female,South,25,Smartwatch,Wearables,200,1,200,6.96,Returned,11/20/2023
+CUST0015,Male,North,58,Laptop,Electronics,1500,5,7500,6.21,,7/21/2023
+CUST0045,Male,East,21,Headphones,Accessories,100,4,400,18.3,Delivered,7/26/2023
+CUST0156,Male,West,57,Laptop,Electronics,1500,5,7500,7.57,Returned,5/18/2023
+CUST0238,Male,East,26,Monitor,Electronics,621.9121225,2,600,7.02,In Transit,1/3/2024
+CUST0116,Male,West,20,Monitor,Electronics,300,2,600,11.06,,8/12/2023
+CUST0239,Female,East,35,Mouse,Accessories,30,5,150,13.08,Delivered,8/16/2023
+CUST0268,Female,South,21,Mouse,Accessories,30,3,90,10.49,Delivered,8/11/2023
+CUST0086,Male,West,26,Monitor,Electronics,300,2,600,12.94,,1/2/2023
+CUST0087,Female,North,49,Laptop,Electronics,1500,2,3000,11.24,In Transit,7/28/2023
+CUST0077,Female,North,,Monitor,Electronics,621.9121225,3,900,14.86,In Transit,4/27/2023
+CUST0122,Male,East,68,Keyboard,Accessories,50,2,100,11.09,,8/16/2023
+CUST0242,Male,South,58,Smartwatch,Wearables,200,5,1000,10.84,In Transit,10/22/2023
+CUST0079,Female,North,26,Laptop,Electronics,1500,4,6000,5.57,In Transit,8/24/2023
+CUST0216,Male,East,53,Mouse,Accessories,30,2,60,8.58,Returned,10/27/2023
+CUST0016,Female,West,,Keyboard,Accessories,50,3,150,10.05,In Transit,11/26/2023
+CUST0196,Male,South,37,Smartwatch,Wearables,200,2,400,18.38,Delivered,2/17/2023
+CUST0148,Male,South,67,Monitor,Electronics,300,3,900,19.76,Delivered,11/9/2023
+CUST0295,Female,West,26,Mouse,Accessories,30,1,30,13.87,In Transit,6/10/2023
+CUST0048,Male,East,34,Smartwatch,Wearables,200,3,600,16.93,In Transit,4/13/2023
+CUST0115,Female,South,53,Mouse,Accessories,30,3,90,6.18,Delivered,4/25/2023
+CUST0264,Female,East,,Smartphone,Electronics,800,4,3200,17.44,Delivered,3/3/2023
+CUST0216,Male,South,53,Monitor,Electronics,300,3,900,12.14,Returned,3/14/2023
+CUST0029,Male,South,66,Monitor,Electronics,300,1,300,17.09,In Transit,4/3/2023
+CUST0180,Male,South,68,Keyboard,Accessories,50,1,50,11.23,Delivered,4/2/2023
+CUST0184,Female,East,54,Smartphone,Electronics,800,5,4000,5.41,Returned,7/8/2023
+CUST0290,Male,,37,Headphones,Accessories,100,5,500,6.55,Returned,4/20/2023
+CUST0228,Female,East,25,Smartwatch,Wearables,200,2,400,6.46,In Transit,10/19/2023
+CUST0243,Male,West,58,Monitor,Electronics,300,4,1200,14.16,,5/14/2023
+CUST0242,Female,North,58,Smartwatch,Wearables,200,3,600,14.74,Returned,9/29/2023
+CUST0142,Male,South,32,Laptop,Electronics,1500,1,1500,6.92,In Transit,12/26/2023
+CUST0131,Male,East,67,Mouse,Accessories,30,1,30,13.84,Delivered,6/8/2023
+CUST0126,Male,North,66,Keyboard,Accessories,50,4,200,10.69,Delivered,6/3/2023
+CUST0265,Male,West,38,Headphones,Accessories,100,3,300,8.2,Returned,11/30/2023
+CUST0003,Male,North,63,Mouse,Accessories,30,3,90,9.04,Delivered,2/14/2023
+CUST0212,Male,West,62,Keyboard,Accessories,50,2,100,8.68,In Transit,7/2/2023
+CUST0106,Female,West,50,Smartphone,Electronics,800,1,800,7.34,In Transit,6/13/2023
+CUST0118,Male,West,23,Monitor,Electronics,300,4,1200,11.76,Returned,3/28/2023
+CUST0126,Male,East,66,Headphones,Accessories,100,5,500,5.4,Returned,12/24/2023
+CUST0292,Male,South,21,Mouse,Accessories,30,4,120,13.68,Delivered,5/24/2023
+CUST0291,Female,South,49,Monitor,Electronics,300,3,900,15.81,In Transit,5/21/2023
+CUST0085,Female,North,18,Keyboard,Accessories,50,5,250,16,Delivered,1/5/2023
+CUST0166,Female,West,29,Mouse,Accessories,30,4,120,11.36,Returned,11/19/2023
+CUST0040,Female,East,,Keyboard,Accessories,50,5,250,10.46,Returned,8/2/2023
+CUST0295,Male,North,,Monitor,Electronics,300,1,300,9.06,Returned,6/16/2023
+CUST0059,Female,South,18,Mouse,Accessories,30,3,90,8.3,,2/6/2023
+CUST0281,Female,East,44,Headphones,Accessories,100,3,300,13.94,In Transit,9/28/2023
+CUST0019,Male,South,69,Smartphone,Electronics,800,4,3200,19.42,Delivered,11/7/2023
+CUST0004,Male,North,65,Keyboard,Accessories,50,5,250,5.92,Returned,4/4/2023
+CUST0279,Female,West,59,Smartphone,Electronics,800,5,4000,15.22,Delivered,11/24/2023
+CUST0069,Female,East,66,Headphones,Accessories,100,2,200,8.65,In Transit,9/19/2023
+CUST0004,Male,North,65,Monitor,Electronics,300,3,900,9.31,In Transit,2/14/2023
+CUST0060,Male,South,41,Keyboard,Accessories,50,3,150,5.55,Delivered,3/13/2023
+CUST0154,Male,North,31,Mouse,Accessories,30,1,30,9.26,Returned,8/24/2023
+CUST0259,Male,East,59,Monitor,Electronics,300,3,900,19.36,Delivered,5/1/2023
+CUST0203,Female,East,,Laptop,Electronics,1500,5,7500,16.44,In Transit,9/23/2023
+CUST0241,Female,West,27,Smartphone,Electronics,800,4,3200,13.94,In Transit,2/3/2023
+CUST0004,Female,West,65,Smartphone,Electronics,800,5,4000,15.8,Returned,12/29/2023
+CUST0031,Male,West,67,Smartphone,Electronics,800,3,2400,7.05,In Transit,12/14/2023
+CUST0144,Male,West,54,Mouse,Accessories,30,4,120,14.5,Delivered,2/13/2023
+CUST0031,Female,East,67,Mouse,Accessories,30,2,60,12.54,,3/26/2023
+CUST0218,Male,East,36,Smartphone,Electronics,800,2,1600,16.62,In Transit,8/3/2023
+CUST0234,Male,South,44,Laptop,Electronics,1500,5,7500,18.67,Returned,9/12/2023
+CUST0050,Female,West,40,Laptop,Electronics,1500,1,1500,13.51,Delivered,7/21/2023
+CUST0140,Male,South,50,Mouse,Accessories,30,3,90,12.43,Delivered,1/5/2023
+CUST0044,Male,South,30,Smartwatch,Wearables,200,4,800,13.9,Returned,6/28/2023
+CUST0202,Male,South,56,Smartwatch,Wearables,200,3,600,19.03,In Transit,1/3/2024
+CUST0093,Female,North,66,Monitor,Electronics,300,5,1500,18.92,Delivered,5/3/2023
+CUST0258,Female,West,39,Monitor,Electronics,300,1,300,9.04,Delivered,7/23/2023
+CUST0133,Female,East,47,Smartwatch,Wearables,200,1,200,12.27,In Transit,12/13/2023
+CUST0271,Male,South,46,Keyboard,Accessories,50,5,250,19.63,In Transit,5/22/2023
+CUST0121,Female,North,66,Keyboard,Accessories,50,3,150,10.21,Returned,12/12/2023
+CUST0028,Male,East,50,Monitor,Electronics,300,4,1200,14.64,In Transit,1/28/2023
+CUST0125,Male,East,,Smartwatch,Wearables,200,3,600,6.36,Returned,11/28/2023
+CUST0137,Female,East,19,Monitor,Electronics,300,3,900,9.79,Delivered,12/2/2023
+CUST0240,Male,West,39,Keyboard,Accessories,50,1,50,6.14,Delivered,5/29/2023
+CUST0268,Male,East,21,Monitor,Electronics,300,4,1200,10.03,In Transit,5/16/2023
+CUST0066,Female,South,37,Headphones,Accessories,100,3,300,9.91,In Transit,8/1/2023
+CUST0068,Male,South,64,Mouse,Accessories,30,1,30,19.22,In Transit,7/31/2023
+CUST0221,Male,North,,Keyboard,Accessories,50,3,150,10.81,In Transit,7/11/2023
+CUST0266,Male,North,29,Laptop,Electronics,1500,2,3000,16.23,Delivered,1/26/2023
+CUST0129,Male,South,,Smartphone,Electronics,800,5,4000,15.97,Delivered,11/14/2023
+CUST0113,Male,South,38,Monitor,Electronics,300,5,1500,19.39,Returned,2/26/2023
+CUST0240,Male,West,39,Smartphone,Electronics,800,3,2400,9.92,In Transit,7/26/2023
+CUST0003,Male,South,63,Smartwatch,Wearables,200,4,800,10.23,In Transit,6/7/2023
+CUST0272,Female,South,52,Smartphone,Electronics,800,1,800,10.65,Delivered,5/29/2023
+CUST0276,Male,South,66,Monitor,Electronics,300,5,1500,8.06,Delivered,6/11/2023
+CUST0209,Male,North,63,Keyboard,Accessories,50,5,250,5.88,Delivered,2/12/2023
+CUST0014,Male,South,20,Monitor,Electronics,300,1,300,7.32,Returned,12/18/2023
+CUST0186,Male,South,55,Smartphone,Electronics,800,1,800,18.74,Returned,7/17/2023
+CUST0198,Male,East,56,Laptop,Electronics,1500,2,3000,19.05,Returned,5/20/2023
+CUST0043,Male,North,22,Keyboard,Accessories,50,4,200,11.99,Delivered,1/4/2023
+CUST0071,Male,East,46,Monitor,Electronics,300,1,300,6.17,In Transit,12/10/2023
+CUST0131,Female,East,67,Smartphone,Electronics,800,3,2400,7.3,In Transit,11/17/2023
+CUST0131,Female,North,67,Laptop,Electronics,3109.560612,4,6000,18.27,,8/26/2023
+CUST0232,Female,,44,Laptop,Electronics,1500,1,1500,12.37,In Transit,2/10/2023
+CUST0109,Male,South,57,Smartwatch,Wearables,200,3,600,5.88,Delivered,1/10/2023
+CUST0189,Male,North,38,Keyboard,Accessories,50,5,250,12.92,Returned,7/19/2023
+CUST0299,Female,South,58,Mouse,Accessories,30,2,60,9.71,Returned,3/27/2023
+CUST0270,Male,,64,Smartwatch,Wearables,200,5,1000,19,Returned,8/20/2023
+CUST0031,Male,West,67,Mouse,Accessories,30,3,90,7.63,Delivered,7/22/2023
+CUST0240,Male,West,39,Mouse,Accessories,30,5,150,5.6,Returned,10/10/2023
+CUST0176,Male,West,51,Keyboard,Accessories,50,4,200,19.42,In Transit,5/30/2023
+CUST0252,Female,East,55,Smartwatch,Wearables,200,5,1000,13.29,Delivered,10/16/2023
+CUST0225,Female,East,,Mouse,Accessories,30,3,90,15.46,In Transit,5/4/2023
+CUST0238,Male,West,26,Mouse,Accessories,30,2,60,16.34,Returned,11/2/2023
+CUST0276,Female,North,66,Headphones,Accessories,100,4,400,7.41,Delivered,1/9/2023
+CUST0255,Female,West,39,Monitor,Electronics,300,1,300,13.28,Delivered,2/20/2023
+CUST0133,Male,East,47,Smartphone,Electronics,800,4,3200,8.88,In Transit,7/31/2023
+CUST0097,Male,East,34,Smartwatch,Wearables,200,3,600,5.87,Returned,6/25/2023
+CUST0239,Male,,35,Headphones,Accessories,100,4,400,11.97,In Transit,3/15/2023
+CUST0226,Male,West,43,Headphones,Accessories,100,2,200,15.85,Returned,10/8/2023
+CUST0068,Female,North,64,Keyboard,Accessories,50,5,250,13.3,Returned,7/2/2023
+CUST0149,Female,East,40,Monitor,Electronics,300,4,1200,17.21,In Transit,7/30/2023
+CUST0257,Female,,54,Mouse,Accessories,30,2,60,19.03,In Transit,1/11/2023
+CUST0299,Female,North,58,Smartwatch,Wearables,200,4,800,9.43,Returned,8/3/2023
+CUST0123,Male,North,52,Smartwatch,Wearables,200,2,400,5.97,In Transit,9/25/2023
+CUST0231,Female,North,,Laptop,Electronics,1500,5,7500,5.11,Returned,11/30/2023
+CUST0217,Male,South,18,Mouse,Accessories,30,3,90,11.7,,10/20/2023
+CUST0142,Male,East,32,Headphones,Accessories,100,5,500,12.38,Returned,1/1/2023
+CUST0200,Female,North,68,Smartphone,Electronics,800,4,3200,17.32,Returned,8/5/2023
+CUST0079,Male,West,26,Smartwatch,Wearables,200,2,400,7.14,Returned,1/4/2023
+CUST0201,Female,South,49,Headphones,Accessories,100,1,100,17.21,In Transit,1/5/2023
+CUST0133,Male,East,47,Laptop,Electronics,1500,1,1500,19.19,Delivered,4/1/2023
+CUST0055,Female,North,,Mouse,Accessories,30,5,150,19.35,Delivered,10/20/2023
+CUST0023,Female,South,29,Laptop,Electronics,1500,5,7500,10.36,Returned,1/7/2023
+CUST0040,Male,,29,Smartwatch,Wearables,200,1,200,7.53,Delivered,1/30/2023

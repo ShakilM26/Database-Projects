@@ -62,3 +62,29 @@ FROM rides
 WHERE status='completed'
 GROUP BY ride_date
 ORDER BY total_revenue DESC;
+
+SELECT driver_id, 
+SUM(status LIKE 'cancelled%') AS cancelled_rides,
+COUNT(*) AS total_rides,
+SUM(status LIKE 'cancelled%') / COUNT(*) AS cancellation_rate
+FROM rides
+GROUP BY driver_id;
+
+SELECT user_id, SUM(fare) AS total_spent
+FROM rides
+WHERE status='completed'
+GROUP BY user_id
+ORDER BY total_spent DESC LIMIT 3;
+
+SELECT DATE_FORMAT(ride_date, '%Y-%m') AS month,
+SUM(fare) AS total_revenue
+FROM rides
+WHERE status = 'completed'
+GROUP BY DATE_FORMAT(ride_date, '%Y-%m')
+ORDER BY month;
+
+# 16. Rank users based on total number of rides
+SELECT user_id, COUNT(*) AS total_rides,
+RANK() OVER (ORDER BY COUNT(*) DESC) AS ride_rank
+FROM rides
+GROUP BY user_id;

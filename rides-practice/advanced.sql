@@ -60,3 +60,10 @@ HAVING COUNT(DISTINCT driver_id) = 1;
 SELECT user_id, SUM(status LIKE 'cancelled%') / COUNT(*) AS cancel_rate
 FROM rides GROUP BY user_id
 HAVING cancel_rate > 0.40;
+
+# Cancellation reason comparison
+SELECT driver_id, 
+SUM(status = 'cancelled_by_user') AS user_cancels,
+SUM(status = 'cancelled_by_driver') AS driver_cancels
+FROM rides
+GROUP BY driver_id;

@@ -35,3 +35,16 @@ WHERE r.ride_id IS NULL;
 
 SELECT user_name FROM users
 WHERE user_id NOT IN (SELECT DISTINCT user_id FROM rides);
+
+
+SELECT ride_id, fare FROM 
+(SELECT ride_id, fare, DENSE_RANK() OVER(ORDER BY fare DESC) as fare_rank
+FROM rides) ranked_rides
+WHERE fare_rank = 3;
+
+
+SELECT user_id, ride_id, ride_date FROM
+(SELECT user_id, ride_id, ride_date, 
+ROW_NUMBER() OVER (PARTITION BY user_id ORDER BY ride_date ASC)
+FROM rides) ride_history 
+WHERE rn = 1;

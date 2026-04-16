@@ -7,6 +7,7 @@ GROUP BY Medical_Condition;
 SELECT Blood_Type, COUNT(*) AS Blood_Type_Count FROM healthcare_dataset
 GROUP BY Blood_Type ORDER BY Blood_Type_Count DESC LIMIT 5;
 
+
 -- 3. Find the average billing amount for patients with each medical condition.
 SELECT Medical_Condition, AVG(Billing_Amount) AS Average_Billing_Amount 
 FROM healthcare_dataset 

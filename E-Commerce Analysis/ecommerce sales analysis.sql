@@ -6,6 +6,7 @@ SELECT Product_Name, SUM(Quantity) AS Total_Quantity_Sold FROM ecommerce_sales_d
 GROUP BY Product_Name 
 ORDER BY Total_Quantity_Sold DESC LIMIT 1; 
 
+
 -- Question 3: Which customer has spent the most on orders?
 SELECT CustomerID, SUM(Total_Price) AS Total_Spent FROM ecommerce_sales_data
 GROUP BY CustomerID 
